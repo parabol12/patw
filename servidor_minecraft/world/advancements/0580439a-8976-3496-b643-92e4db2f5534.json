@@ -643,6 +643,7 @@
       "grassy_beach": "2025-05-23 21:21:06 +0000",
       "blackwood_taiga": "2025-05-23 07:32:40 +0000",
       "rocky_meadow": "2025-05-23 06:46:21 +0000",
+      "flower_fields": "2025-05-23 21:29:38 +0000",
       "highland_fields": "2025-05-23 07:01:03 +0000",
       "magnolia_highlands": "2025-05-23 21:14:21 +0000",
       "boreal_forest": "2025-05-23 06:40:54 +0000",
@@ -658,6 +659,7 @@
       "grassy_beach": "2025-05-23 21:21:06 +0000",
       "blackwood_taiga": "2025-05-23 07:32:40 +0000",
       "rocky_meadow": "2025-05-23 06:46:21 +0000",
+      "flower_fields": "2025-05-23 21:29:38 +0000",
       "highland_fields": "2025-05-23 07:01:03 +0000",
       "magnolia_highlands": "2025-05-23 21:14:21 +0000",
       "boreal_forest": "2025-05-23 06:40:54 +0000",
@@ -693,7 +695,8 @@
       "autumnity:autumnity:maple_forest": "2025-05-23 06:58:04 +0000",
       "minecraft:desert": "2025-05-23 05:55:57 +0000",
       "minecraft:ocean": "2025-05-23 06:55:21 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-23 06:15:05 +0000"
+      "minecraft:old_growth_birch_forest": "2025-05-23 06:15:05 +0000",
+      "autumnity:autumnity:pumpkin_fields": "2025-05-23 21:28:14 +0000"
     },
     "done": false
   },
@@ -759,6 +762,7 @@
       "rocky_shrubland": "2025-05-23 05:57:51 +0000",
       "maple_woods": "2025-05-23 06:03:40 +0000",
       "orchard": "2025-05-23 06:47:44 +0000",
+      "grassland": "2025-05-23 21:23:20 +0000",
       "gravel_beach": "2025-05-23 06:30:52 +0000"
     },
     "done": false
@@ -1117,6 +1121,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-23 07:12:23 +0000",
+      "minecraft:spider": "2025-05-23 21:26:35 +0000",
       "minecraft:creeper": "2025-05-23 07:31:47 +0000",
       "quark:forgotten": "2025-05-23 07:30:15 +0000",
       "minecraft:zombie": "2025-05-23 07:12:35 +0000"
