@@ -4895,3 +4895,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23May2025 06:21:32.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Isn't It Iron Pick]
 [23May2025 06:21:40.700] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Stal}[style={}] has been infected
 [23May2025 06:21:42.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stal'/13486, l='ServerLevel[world]', x=-2770.73, y=65.00, z=1266.52] died, message: 'Stal was slain by Zombie'
+[23May2025 06:22:54.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Disme A Dozen]
+[23May2025 06:23:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Stone Age]
+[23May2025 06:23:30.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Hot Stuff]
+[23May2025 06:25:21.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Acquire Hardware]
+[23May2025 06:26:57.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Disme A Dozen]
+[23May2025 06:26:59.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Diamonds!]
+[23May2025 06:27:33.970] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[23May2025 06:27:34.086] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23May2025 06:27:34.098] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[23May2025 06:27:44.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Ambush]
+[23May2025 06:28:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [A Strange Grave Dust]
+[23May2025 06:31:40.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Who You Gonna Call?]
+[23May2025 06:32:45.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Dungeon Now Loading]
+[23May2025 06:33:11.717] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2359, y=-29, z=943}
+[23May2025 06:33:11.717] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2358, y=-29, z=943}
+[23May2025 06:33:28.013] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[23May2025 06:33:28.014] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[23May2025 06:33:28.127] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2321, y=-46, z=1190}
+[23May2025 06:33:28.128] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2321, y=-46, z=1191}
+[23May2025 06:33:28.128] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2321, y=-46, z=1192}
+[23May2025 06:33:34.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Who You Gonna Call?]
+[23May2025 06:33:42.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Mine? Mine? Mine?]
+[23May2025 06:34:43.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Book of Monsters]
+[23May2025 06:35:01.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Rotten to the Core]
+[23May2025 06:35:28.775] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-57, z=10}
+[23May2025 06:35:28.776] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=8}
+[23May2025 06:35:28.776] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=9}
+[23May2025 06:35:28.776] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=2}
+[23May2025 06:35:28.777] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=2}
+[23May2025 06:35:28.816] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-59, z=7}
+[23May2025 06:35:28.816] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=8}
+[23May2025 06:35:33.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Knowledge raises the soul]
+[23May2025 06:36:17.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[23May2025 06:36:41.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Die Classy]
+[23May2025 06:36:47.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[23May2025 06:39:06.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Pic-A-Nic Basket?]
+[23May2025 06:39:25.131] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22551, l='ServerLevel[world]', x=-2554.50, y=72.00, z=1464.50]
+[23May2025 06:40:45.962] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-57, z=10}
+[23May2025 06:40:45.962] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=8}
+[23May2025 06:40:45.963] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=9}
+[23May2025 06:40:45.963] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=2}
+[23May2025 06:40:45.963] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=2}
+[23May2025 06:40:45.964] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-59, z=7}
+[23May2025 06:40:45.964] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=8}
+[23May2025 06:40:53.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Mine? Mine? Mine?]
+[23May2025 06:40:54.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24396, l='ServerLevel[world]', x=-2473.50, y=72.00, z=1424.50]
+[23May2025 06:41:30.200] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2097, y=-16, z=1191}
+[23May2025 06:42:18.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25712, l='ServerLevel[world]', x=-2468.50, y=71.00, z=1448.50]
+[23May2025 06:42:20.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/25721, l='ServerLevel[world]', x=-2381.50, y=72.00, z=1433.50]

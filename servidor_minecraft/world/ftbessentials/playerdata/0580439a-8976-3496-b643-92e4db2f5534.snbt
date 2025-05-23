@@ -8,6 +8,7 @@
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: 1923, y: -8, z: 5121, time: 1747979833461L }
 		{ dim: "minecraft:overworld", x: 1942, y: 8, z: 5124, time: 1747979870973L, xRot: 16.200066f, yRot: -119.249695f }
+		{ dim: "minecraft:overworld", x: -2266, y: 76, z: 993, time: 1747982533218L, xRot: 2.8499548f, yRot: -74.86209f }
 	]
 	homes: { }
 	kit_use_times: { }
