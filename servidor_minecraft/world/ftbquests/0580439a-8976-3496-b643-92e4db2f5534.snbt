@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0580439a89763496b64392e4db2f5534"
+	name: "zimee777#0580439a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

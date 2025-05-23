@@ -1,0 +1,17 @@
+{
+	id: "0580439a-8976-3496-b643-92e4db2f5534"
+	type: "player"
+	player_name: "zimee777"
+	ranks: {
+		0580439a-8976-3496-b643-92e4db2f5534: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zimee777"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
