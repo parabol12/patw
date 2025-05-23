@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-23 07:29:54 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_planks_roofs": {
     "criteria": {
       "has_planks": "2025-05-23 06:24:19 +0000"
@@ -224,6 +230,12 @@
   "queen_bee:root": {
     "criteria": {
       "root": "2025-05-23 05:50:18 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/raw_gold_block_slab": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-23 07:23:37 +0000"
     },
     "done": true
   },
@@ -336,6 +348,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-23 07:12:23 +0000",
+      "minecraft:creeper": "2025-05-23 07:31:47 +0000",
+      "quark:forgotten": "2025-05-23 07:30:15 +0000",
       "minecraft:zombie": "2025-05-23 07:12:35 +0000"
     },
     "done": false
@@ -403,6 +417,12 @@
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2025-05-23 05:50:18 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-05-23 07:30:16 +0000"
     },
     "done": true
   },
@@ -511,6 +531,12 @@
   "mcwbiomesoplenty:recipes/maple_roofs": {
     "criteria": {
       "has_planks": "2025-05-23 06:10:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 07:29:54 +0000"
     },
     "done": true
   },
@@ -690,6 +716,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2025-05-23 07:27:52 +0000"
+    },
+    "done": false
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2025-05-23 07:20:48 +0000"
@@ -750,6 +782,8 @@
     "criteria": {
       "marsh": "2025-05-23 05:50:19 +0000",
       "willow_forest": "2025-05-23 06:45:18 +0000",
+      "scorching_caves": "2025-05-23 07:27:52 +0000",
+      "blackwood_taiga": "2025-05-23 07:32:40 +0000",
       "rocky_meadow": "2025-05-23 06:46:21 +0000",
       "highland_fields": "2025-05-23 07:01:03 +0000",
       "boreal_forest": "2025-05-23 06:40:54 +0000",
@@ -899,6 +933,7 @@
     "criteria": {
       "marsh": "2025-05-23 05:50:19 +0000",
       "willow_forest": "2025-05-23 06:45:18 +0000",
+      "blackwood_taiga": "2025-05-23 07:32:40 +0000",
       "rocky_meadow": "2025-05-23 06:46:21 +0000",
       "highland_fields": "2025-05-23 07:01:03 +0000",
       "boreal_forest": "2025-05-23 06:40:54 +0000",
@@ -1087,6 +1122,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-23 07:20:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 07:30:31 +0000"
     },
     "done": true
   },

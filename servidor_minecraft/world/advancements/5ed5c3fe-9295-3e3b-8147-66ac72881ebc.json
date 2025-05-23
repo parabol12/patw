@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-05-23 07:27:29 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta": {
     "criteria": {
       "has_the_recipe": "2025-05-23 05:57:58 +0000"
@@ -359,6 +365,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-23 07:26:33 +0000",
       "minecraft:spider": "2025-05-23 06:20:06 +0000",
       "minecraft:creeper": "2025-05-23 07:17:50 +0000",
       "minecraft:cave_spider": "2025-05-23 07:22:59 +0000",
@@ -674,6 +681,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2025-05-23 07:29:18 +0000"
+    },
+    "done": false
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-23 07:01:47 +0000"
@@ -726,6 +739,8 @@
     "criteria": {
       "willow_forest": "2025-05-23 06:44:56 +0000",
       "grassy_beach": "2025-05-23 05:57:59 +0000",
+      "scorching_caves": "2025-05-23 07:29:18 +0000",
+      "blackwood_taiga": "2025-05-23 07:32:39 +0000",
       "rocky_meadow": "2025-05-23 06:45:39 +0000",
       "highland_fields": "2025-05-23 06:57:03 +0000",
       "magnolia_highlands": "2025-05-23 06:44:41 +0000",
@@ -853,6 +868,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-05-23 07:25:39 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/ladder_slab": {
     "criteria": {
       "has_ladder": "2025-05-23 06:15:47 +0000"
@@ -875,6 +896,7 @@
     "criteria": {
       "willow_forest": "2025-05-23 06:44:56 +0000",
       "grassy_beach": "2025-05-23 05:57:59 +0000",
+      "blackwood_taiga": "2025-05-23 07:32:39 +0000",
       "rocky_meadow": "2025-05-23 06:45:39 +0000",
       "highland_fields": "2025-05-23 06:57:03 +0000",
       "magnolia_highlands": "2025-05-23 06:44:41 +0000",
@@ -972,6 +994,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-23 07:30:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-23 06:14:08 +0000",
@@ -1016,6 +1044,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-23 07:26:55 +0000",
       "cooked_beef": "2025-05-23 06:15:34 +0000",
       "sweet_berries": "2025-05-23 06:07:09 +0000",
       "potato": "2025-05-23 06:10:21 +0000",
@@ -1038,6 +1067,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-23 06:26:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 07:31:34 +0000"
     },
     "done": true
   },

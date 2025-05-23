@@ -640,6 +640,7 @@
       "marsh": "2025-05-23 05:50:12 +0000",
       "willow_forest": "2025-05-23 07:10:45 +0000",
       "grassy_beach": "2025-05-23 06:42:58 +0000",
+      "scorching_caves": "2025-05-23 07:27:48 +0000",
       "blackwood_taiga": "2025-05-23 07:09:38 +0000",
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
@@ -988,6 +989,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2025-05-23 07:27:48 +0000"
+    },
+    "done": false
+  },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
       "crafted_tool": "2025-05-23 07:20:01 +0000"
@@ -1005,6 +1012,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-23 06:27:44 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-05-23 07:26:36 +0000"
     },
     "done": true
   },
@@ -1101,6 +1114,12 @@
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-05-23 06:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-23 07:28:09 +0000"
     },
     "done": true
   },

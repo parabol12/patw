@@ -5151,3 +5151,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23May2025 07:21:01.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Tunnel Treasures]
 [23May2025 07:21:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Magic Writing]
 [23May2025 07:21:13.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Barrel Booty]
+[23May2025 07:26:36.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Mine Turtle!]
+[23May2025 07:28:09.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Diamonds!]
+[23May2025 07:29:15.951] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
+[23May2025 07:29:16.004] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[23May2025 07:29:54.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Knowledge of Death]
+[23May2025 07:29:54.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [A Strange Grave Dust]
+[23May2025 07:30:16.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has reached the goal [This Belongs in a Museum]
+[23May2025 07:30:31.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Ashes 'n Bones]
+[23May2025 07:31:02.025] [Server thread/WARN] [tombstone/]: The death event of the player TheFernet was canceled by another mod
+[23May2025 07:31:02.051] [Server thread/INFO] [tombstone/]: The player TheFernet has successfully been saved
+[23May2025 07:31:34.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Ashes 'n Bones]
