@@ -4717,3 +4717,150 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23May2025 05:50:27.622] [Worker-Main-25/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=92, y=-54, z=-326}
 [23May2025 05:50:30.146] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/2223, l='ServerLevel[world]', x=68.50, y=22.00, z=-339.50] as it would cause deadlock
 [23May2025 05:50:30.149] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/2225, l='ServerLevel[world]', x=68.50, y=22.00, z=-347.50] as it would cause deadlock
+[23May2025 05:52:41.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[23May2025 05:52:48.966] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[23May2025 05:52:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Minecraft Comes Alive]
+[23May2025 05:53:02.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5760ms or 115 ticks behind
+[23May2025 05:53:08.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ moved wrongly!
+[23May2025 05:53:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement ['X' Marks the Spot]
+[23May2025 05:54:38.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Dungeon Now Loading]
+[23May2025 05:55:11.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Stone Age]
+[23May2025 05:55:42.438] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23May2025 05:55:42.439] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[23May2025 05:55:42.439] [Worker-Main-35/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[23May2025 05:55:44.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[23May2025 05:55:44.455] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[23May2025 05:55:44.455] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[23May2025 05:55:44.464] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23May2025 05:55:45.597] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[23May2025 05:55:45.612] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[23May2025 05:55:45.612] [Worker-Main-24/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23May2025 05:55:57.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Minecraft Comes Alive]
+[23May2025 05:56:04.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5262ms or 105 ticks behind
+[23May2025 05:56:39.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Crops of the Wild]
+[23May2025 05:56:41.765] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-57, z=10}
+[23May2025 05:56:41.766] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=8}
+[23May2025 05:56:41.766] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=9}
+[23May2025 05:56:41.766] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=2}
+[23May2025 05:56:41.766] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=2}
+[23May2025 05:56:41.768] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-59, z=7}
+[23May2025 05:56:41.768] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=8}
+[23May2025 05:56:42.369] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[23May2025 05:56:42.371] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[23May2025 05:56:58.696] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[23May2025 05:56:58.711] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[23May2025 05:56:58.711] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23May2025 05:57:05.189] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[23May2025 05:57:05.242] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[23May2025 05:57:11.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 tried to swim in lava
+[23May2025 05:57:11.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Your First Grave]
+[23May2025 05:57:11.773] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[23May2025 05:57:11.783] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-57, z=10}
+[23May2025 05:57:11.783] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=8}
+[23May2025 05:57:11.783] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=9}
+[23May2025 05:57:11.783] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=2}
+[23May2025 05:57:11.784] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=2}
+[23May2025 05:57:11.927] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-59, z=7}
+[23May2025 05:57:11.928] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=8}
+[23May2025 05:57:13.471] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[23May2025 05:57:13.471] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[23May2025 05:57:13.471] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[23May2025 05:57:13.472] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[23May2025 05:57:14.730] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vasko'/6058, l='ServerLevel[world]', x=1951.60, y=10.00, z=5116.14] died, message: 'Vasko was slain by Fire Dragon'
+[23May2025 05:57:14.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vasko'/6058, l='ServerLevel[world]', x=1951.60, y=10.00, z=5116.14] died: Vasko was slain by Fire Dragon
+[23May2025 05:57:25.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ivayla'/6136, l='ServerLevel[world]', x=1963.89, y=11.41, z=5130.80] died, message: 'Ivayla was slain by Fire Dragon'
+[23May2025 05:57:25.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ivayla'/6136, l='ServerLevel[world]', x=1963.89, y=11.41, z=5130.80] died: Ivayla was slain by Fire Dragon
+[23May2025 05:57:25.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement ['X' Marks the Spot]
+[23May2025 05:57:35.270] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[23May2025 05:57:35.283] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[23May2025 05:57:35.283] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23May2025 05:57:38.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has reached the goal [Here They Come]
+[23May2025 05:57:43.174] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-58, z=9}
+[23May2025 05:57:43.175] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-57, z=8}
+[23May2025 05:57:43.175] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-58, z=6}
+[23May2025 05:57:43.175] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-57, z=4}
+[23May2025 05:57:44.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aljoscha'/6095, l='ServerLevel[world]', x=1946.57, y=12.00, z=5136.70] died, message: 'Aljoscha was turned into KFC by Fire Dragon'
+[23May2025 05:57:44.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aljoscha'/6095, l='ServerLevel[world]', x=1946.57, y=12.00, z=5136.70] died: Aljoscha was incinerated by Fire Dragon
+[23May2025 05:57:44.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vassil'/6053, l='ServerLevel[world]', x=1947.71, y=11.00, z=5136.69] died, message: 'Vassil was turned into KFC by Fire Dragon'
+[23May2025 05:57:44.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vassil'/6053, l='ServerLevel[world]', x=1947.71, y=11.00, z=5136.69] died: Vassil was incinerated by Fire Dragon
+[23May2025 05:57:58.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheFernet[/100.100.69.57:52050] logged in with entity id 6873 at (225.5, 63.0, -136.5)
+[23May2025 05:57:58.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to TheFernet
+[23May2025 05:57:58.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to TheFernet
+[23May2025 05:57:58.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to TheFernet
+[23May2025 05:57:58.357] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to TheFernet
+[23May2025 05:57:58.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to TheFernet
+[23May2025 05:57:58.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to TheFernet
+[23May2025 05:57:58.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to TheFernet
+[23May2025 05:57:58.392] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TheFernet
+[23May2025 05:57:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet joined the game
+[23May2025 05:57:58.442] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player TheFernet just logged in with id 5ed5c3fe-9295-3e3b-8147-66ac72881ebc
+[23May2025 05:57:58.632] [Server thread/INFO] [Jade/]: Syncing config to TheFernet (5ed5c3fe-9295-3e3b-8147-66ac72881ebc)
+[23May2025 05:57:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Ice and Fire]
+[23May2025 05:57:58.807] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/TheFernet downloaded
+[23May2025 05:57:59.047] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/2016efbe-18cb-464e-be52-d65425f43628 downloaded
+[23May2025 05:57:59.048] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
+[23May2025 05:57:59.049] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/5ed5c3fe-9295-3e3b-8147-66ac72881ebc
+[23May2025 05:57:59.069] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/TheFernet downloaded
+[23May2025 05:57:59.122] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/capes/2016efbe-18cb-464e-be52-d65425f43628 downloaded
+[23May2025 05:57:59.123] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded cape for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
+[23May2025 05:57:59.124] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/capes/5ed5c3fe-9295-3e3b-8147-66ac72881ebc
+[23May2025 05:59:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Minecraft Comes Alive]
+[23May2025 05:59:15.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mariyana'/7510, l='ServerLevel[world]', x=1948.80, y=10.41, z=5121.68] died, message: 'Mariyana was slain by Fire Dragon'
+[23May2025 05:59:15.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mariyana'/7510, l='ServerLevel[world]', x=1948.80, y=10.41, z=5121.68] died: Mariyana was slain by Fire Dragon
+[23May2025 05:59:23.174] [Server thread/WARN] [tombstone/]: The death event of the player TheFernet was canceled by another mod
+[23May2025 05:59:23.191] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=2150, y=27, z=5151}
+[23May2025 05:59:23.228] [Server thread/INFO] [tombstone/]: The player TheFernet has successfully been saved
+[23May2025 05:59:39.529] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[23May2025 05:59:39.538] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[23May2025 05:59:39.538] [Worker-Main-25/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23May2025 05:59:45.292] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[23May2025 05:59:45.294] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[23May2025 05:59:48.788] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-57, z=10}
+[23May2025 05:59:48.789] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=8}
+[23May2025 05:59:48.789] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=9}
+[23May2025 05:59:48.789] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=2}
+[23May2025 05:59:48.789] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=2}
+[23May2025 05:59:48.807] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-59, z=7}
+[23May2025 05:59:48.808] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=8}
+[23May2025 05:59:49.897] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rafail'/7493, l='ServerLevel[world]', x=1955.50, y=10.17, z=5129.28] died, message: 'Rafail was turned into KFC by Fire Dragon'
+[23May2025 05:59:49.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rafail'/7493, l='ServerLevel[world]', x=1955.50, y=10.17, z=5129.28] died: Rafail was turned into KFC by Fire Dragon
+[23May2025 06:00:49.713] [Server thread/WARN] [tombstone/]: The death event of the player TheFernet was canceled by another mod
+[23May2025 06:00:49.749] [Server thread/INFO] [tombstone/]: The player TheFernet has successfully been saved
+[23May2025 06:01:20.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[23May2025 06:01:20.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[23May2025 06:01:20.808] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[23May2025 06:01:44.500] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[23May2025 06:01:44.516] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[23May2025 06:02:43.564] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[23May2025 06:02:43.595] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[23May2025 06:03:30.780] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9158, l='ServerLevel[world]', x=-2480.50, y=73.00, z=1364.50]
+[23May2025 06:03:42.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Crops of the Wild]
+[23May2025 06:04:04.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Sweet Dreams]
+[23May2025 06:04:12.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement ['X' Marks the Spot]
+[23May2025 06:04:14.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Crops of the Wild]
+[23May2025 06:04:28.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Sweet Dreams]
+[23May2025 06:05:01.425] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9344, l='ServerLevel[world]', x=-2479.50, y=73.00, z=1365.50]
+[23May2025 06:05:13.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.87.151.1:51870] logged in with entity id 9372 at (-2581.616790163836, 65.0, 1342.266741438483)
+[23May2025 06:05:13.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to d0ce3_
+[23May2025 06:05:13.245] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to d0ce3_
+[23May2025 06:05:13.246] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to d0ce3_
+[23May2025 06:05:13.246] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to d0ce3_
+[23May2025 06:05:13.247] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to d0ce3_
+[23May2025 06:05:13.249] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to d0ce3_
+[23May2025 06:05:13.249] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to d0ce3_
+[23May2025 06:05:13.286] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player d0ce3_
+[23May2025 06:05:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[23May2025 06:05:13.339] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[23May2025 06:05:13.341] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[23May2025 06:05:13.341] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[23May2025 06:05:13.344] [Server thread/INFO] [Jade/]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[23May2025 06:05:37.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9550, l='ServerLevel[world]', x=-2481.50, y=73.00, z=1366.50]
+[23May2025 06:05:38.032] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9553, l='ServerLevel[world]', x=-2480.50, y=73.00, z=1366.50]
+[23May2025 06:06:09.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Sweet Dreams]
+[23May2025 06:06:21.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made d0ce3_ a server operator
+[23May2025 06:06:31.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Gamerule playersSleepingPercentage is now set to: 1]
+[23May2025 06:09:30.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Dungeon Now Loading]
+[23May2025 06:09:32.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Getting an Upgrade]
+[23May2025 06:09:45.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Stone Age]
+[23May2025 06:10:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Getting an Upgrade]
+[23May2025 06:10:24.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10810, l='ServerLevel[world]', x=-2481.50, y=73.00, z=1365.50]

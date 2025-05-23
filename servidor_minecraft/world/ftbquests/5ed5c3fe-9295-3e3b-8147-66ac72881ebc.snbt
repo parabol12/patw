@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5ed5c3fe92953e3b814766ac72881ebc"
+	name: "TheFernet#5ed5c3fe"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

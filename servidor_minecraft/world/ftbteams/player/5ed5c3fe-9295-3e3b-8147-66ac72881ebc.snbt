@@ -1,0 +1,17 @@
+{
+	id: "5ed5c3fe-9295-3e3b-8147-66ac72881ebc"
+	type: "player"
+	player_name: "TheFernet"
+	ranks: {
+		5ed5c3fe-9295-3e3b-8147-66ac72881ebc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheFernet"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFF1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
