@@ -3498,3 +3498,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23May2025 21:12:54.166] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
 [23May2025 21:12:54.210] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
 [23May2025 21:12:54.211] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[23May2025 21:14:38.807] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3777, l='ServerLevel[world]', x=-2544.50, y=71.00, z=1482.50]
+[23May2025 21:16:34.699] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2662, y=36, z=1973}
+[23May2025 21:21:14.900] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1975, y=17, z=2055}
+[23May2025 21:21:25.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[23May2025 21:21:25.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[23May2025 21:22:38.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:50669] logged in with entity id 7256 at (-2153.1617281511176, 62.0, 1875.0491740594568)
+[23May2025 21:22:38.738] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[23May2025 21:22:38.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[23May2025 21:22:38.740] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[23May2025 21:22:38.740] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[23May2025 21:22:38.742] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[23May2025 21:22:38.744] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[23May2025 21:22:38.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[23May2025 21:22:38.779] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[23May2025 21:22:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[23May2025 21:22:38.802] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[23May2025 21:22:38.807] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[23May2025 21:22:39.547] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[23May2025 21:22:39.646] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[23May2025 21:22:39.750] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[23May2025 21:22:47.775] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2006, y=-5, z=2088}
