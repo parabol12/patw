@@ -4864,3 +4864,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23May2025 06:09:45.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Stone Age]
 [23May2025 06:10:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Getting an Upgrade]
 [23May2025 06:10:24.178] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/10810, l='ServerLevel[world]', x=-2481.50, y=73.00, z=1365.50]
+[23May2025 06:14:00.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Amateur Archaeologist]
+[23May2025 06:14:08.061] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-57, z=-54}
+[23May2025 06:14:08.062] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-58, z=-55}
+[23May2025 06:14:10.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Barrel Booty]
+[23May2025 06:14:17.071] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-58, z=9}
+[23May2025 06:14:17.072] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-57, z=8}
+[23May2025 06:14:17.072] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-58, z=6}
+[23May2025 06:14:17.072] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-57, z=4}
+[23May2025 06:15:28.944] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[23May2025 06:15:28.962] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[23May2025 06:15:46.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Knowledge of Death]
+[23May2025 06:15:46.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Ambush]
+[23May2025 06:15:58.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Barrel Booty]
+[23May2025 06:16:05.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Acquire Hardware]
+[23May2025 06:16:59.281] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[23May2025 06:16:59.282] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[23May2025 06:17:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Monster Hunter]
+[23May2025 06:18:46.900] [Worker-Main-26/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=36, z=1175}
+[23May2025 06:19:29.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Knowledge of Death]
+[23May2025 06:19:29.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Funeral Theft]
+[23May2025 06:20:06.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Monster Hunter]
+[23May2025 06:20:10.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Suit Up]
+[23May2025 06:20:30.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Suit Up]
+[23May2025 06:20:38.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Suit Up]
+[23May2025 06:20:49.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Isn't It Iron Pick]
+[23May2025 06:20:58.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Disme A Dozen]
+[23May2025 06:20:59.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Acquire Hardware]
+[23May2025 06:21:00.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Isn't It Iron Pick]
+[23May2025 06:21:32.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Isn't It Iron Pick]
+[23May2025 06:21:40.700] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Stal}[style={}] has been infected
+[23May2025 06:21:42.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stal'/13486, l='ServerLevel[world]', x=-2770.73, y=65.00, z=1266.52] died, message: 'Stal was slain by Zombie'
