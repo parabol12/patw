@@ -718,7 +718,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "scorching_caves": "2025-05-23 07:27:52 +0000"
+      "scorching_caves": "2025-05-23 07:27:52 +0000",
+      "bioshroom_caves": "2025-05-23 07:34:22 +0000"
     },
     "done": false
   },
@@ -739,6 +740,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-23 07:06:11 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-05-23 07:34:12 +0000"
     },
     "done": true
   },
@@ -787,6 +794,7 @@
       "rocky_meadow": "2025-05-23 06:46:21 +0000",
       "highland_fields": "2025-05-23 07:01:03 +0000",
       "boreal_forest": "2025-05-23 06:40:54 +0000",
+      "bioshroom_caves": "2025-05-23 07:34:22 +0000",
       "lupine_plains": "2025-05-23 06:43:07 +0000"
     },
     "done": false
@@ -911,6 +919,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-05-23 07:33:25 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/ladder_slab": {
     "criteria": {
       "has_ladder": "2025-05-23 06:22:25 +0000"
@@ -940,6 +954,12 @@
       "lupine_plains": "2025-05-23 06:43:07 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-23 07:35:14 +0000"
+    },
+    "done": true
   },
   "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
     "criteria": {
@@ -1116,6 +1136,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-23 06:48:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 07:35:58 +0000"
     },
     "done": true
   },

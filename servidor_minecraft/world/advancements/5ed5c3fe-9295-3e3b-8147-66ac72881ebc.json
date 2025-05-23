@@ -683,7 +683,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "scorching_caves": "2025-05-23 07:29:18 +0000"
+      "scorching_caves": "2025-05-23 07:29:18 +0000",
+      "bioshroom_caves": "2025-05-23 07:33:53 +0000"
     },
     "done": false
   },
@@ -744,6 +745,7 @@
       "rocky_meadow": "2025-05-23 06:45:39 +0000",
       "highland_fields": "2025-05-23 06:57:03 +0000",
       "magnolia_highlands": "2025-05-23 06:44:41 +0000",
+      "bioshroom_caves": "2025-05-23 07:33:53 +0000",
       "lupine_plains": "2025-05-23 06:41:34 +0000"
     },
     "done": false
@@ -903,6 +905,12 @@
       "lupine_plains": "2025-05-23 06:41:34 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-23 07:35:10 +0000"
+    },
+    "done": true
   },
   "new_slab_variants:recipes/building_blocks/spruce_log_slab": {
     "criteria": {
@@ -1069,6 +1077,12 @@
       "diamond": "2025-05-23 06:26:59 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2025-05-23 07:35:30 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
