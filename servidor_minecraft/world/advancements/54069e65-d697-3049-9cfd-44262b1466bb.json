@@ -638,7 +638,9 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "marsh": "2025-05-23 05:50:12 +0000",
+      "willow_forest": "2025-05-23 07:10:45 +0000",
       "grassy_beach": "2025-05-23 06:42:58 +0000",
+      "blackwood_taiga": "2025-05-23 07:09:38 +0000",
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
@@ -648,7 +650,9 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "marsh": "2025-05-23 05:50:12 +0000",
+      "willow_forest": "2025-05-23 07:10:45 +0000",
       "grassy_beach": "2025-05-23 06:42:58 +0000",
+      "blackwood_taiga": "2025-05-23 07:09:38 +0000",
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
@@ -815,6 +819,12 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-05-23 07:06:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-05-23 06:20:38 +0000"
@@ -824,6 +834,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-23 06:20:49 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/honey_block_slab": {
+    "criteria": {
+      "has_honey_block": "2025-05-23 07:06:14 +0000"
     },
     "done": true
   },
@@ -857,6 +873,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-05-23 07:11:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-23 06:35:33 +0000"
@@ -877,6 +899,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-23 07:08:03 +0000",
       "minecraft:skeleton": "2025-05-23 06:27:57 +0000",
       "minecraft:spider": "2025-05-23 06:19:08 +0000",
       "minecraft:creeper": "2025-05-23 06:27:51 +0000",
@@ -981,6 +1004,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/oak_wood_slab": {
+    "criteria": {
+      "has_oak_wood": "2025-05-23 07:06:10 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-05-23 06:48:48 +0000"
@@ -1005,9 +1034,21 @@
     },
     "done": true
   },
+  "queen_bee:im_the_queen": {
+    "criteria": {
+      "requirement": "2025-05-23 07:07:17 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-05-23 06:25:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 07:11:36 +0000"
     },
     "done": true
   },
