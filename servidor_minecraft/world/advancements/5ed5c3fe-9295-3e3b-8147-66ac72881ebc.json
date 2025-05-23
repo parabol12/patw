@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2025-05-23 06:42:50 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2025-05-23 05:57:58 +0000"
@@ -310,6 +316,7 @@
       "shrubland": "2025-05-23 06:19:45 +0000",
       "rocky_shrubland": "2025-05-23 06:00:18 +0000",
       "maple_woods": "2025-05-23 06:03:46 +0000",
+      "orchard": "2025-05-23 06:47:28 +0000",
       "gravel_beach": "2025-05-23 06:33:27 +0000"
     },
     "done": false
@@ -586,6 +593,12 @@
     },
     "done": false
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-23 06:46:31 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/deepslate": {
     "criteria": {
       "has_deepslate": "2025-05-23 05:57:58 +0000"
@@ -678,7 +691,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "willow_forest": "2025-05-23 06:44:56 +0000",
       "grassy_beach": "2025-05-23 05:57:59 +0000",
+      "rocky_meadow": "2025-05-23 06:45:39 +0000",
+      "magnolia_highlands": "2025-05-23 06:44:41 +0000",
       "lupine_plains": "2025-05-23 06:41:34 +0000"
     },
     "done": false
@@ -817,7 +833,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "willow_forest": "2025-05-23 06:44:56 +0000",
       "grassy_beach": "2025-05-23 05:57:59 +0000",
+      "rocky_meadow": "2025-05-23 06:45:39 +0000",
+      "magnolia_highlands": "2025-05-23 06:44:41 +0000",
       "lupine_plains": "2025-05-23 06:41:34 +0000"
     },
     "done": false
@@ -974,6 +993,12 @@
       "has_planks": "2025-05-23 06:09:45 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2025-05-23 06:47:10 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {

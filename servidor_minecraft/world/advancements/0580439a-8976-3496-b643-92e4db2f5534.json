@@ -292,6 +292,7 @@
       "shrubland": "2025-05-23 06:19:06 +0000",
       "rocky_shrubland": "2025-05-23 05:57:51 +0000",
       "maple_woods": "2025-05-23 06:03:40 +0000",
+      "orchard": "2025-05-23 06:47:44 +0000",
       "gravel_beach": "2025-05-23 06:30:52 +0000"
     },
     "done": false
@@ -603,6 +604,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
+    "criteria": {
+      "has_coal_block": "2025-05-23 06:51:31 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_fences": {
     "criteria": {
       "has_acacia": "2025-05-23 05:50:18 +0000"
@@ -642,7 +649,10 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "marsh": "2025-05-23 05:50:19 +0000",
-      "boreal_forest": "2025-05-23 06:40:54 +0000"
+      "willow_forest": "2025-05-23 06:45:18 +0000",
+      "rocky_meadow": "2025-05-23 06:46:21 +0000",
+      "boreal_forest": "2025-05-23 06:40:54 +0000",
+      "lupine_plains": "2025-05-23 06:43:07 +0000"
     },
     "done": false
   },
@@ -775,7 +785,10 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "marsh": "2025-05-23 05:50:19 +0000",
-      "boreal_forest": "2025-05-23 06:40:54 +0000"
+      "willow_forest": "2025-05-23 06:45:18 +0000",
+      "rocky_meadow": "2025-05-23 06:46:21 +0000",
+      "boreal_forest": "2025-05-23 06:40:54 +0000",
+      "lupine_plains": "2025-05-23 06:43:07 +0000"
     },
     "done": false
   },
@@ -936,6 +949,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-23 06:48:00 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-05-23 06:32:45 +0000"
@@ -947,6 +966,12 @@
       "has_planks": "2025-05-23 06:23:12 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2025-05-23 06:47:10 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
