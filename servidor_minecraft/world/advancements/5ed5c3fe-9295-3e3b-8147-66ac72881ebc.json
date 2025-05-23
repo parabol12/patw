@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-23 07:21:01 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-05-23 05:57:58 +0000"
@@ -354,6 +360,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-23 06:20:06 +0000",
+      "minecraft:creeper": "2025-05-23 07:17:50 +0000",
+      "minecraft:cave_spider": "2025-05-23 07:22:59 +0000",
       "minecraft:zombie": "2025-05-23 06:38:00 +0000"
     },
     "done": false
@@ -607,7 +615,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-23 06:14:10 +0000",
-      "opened_chest": "2025-05-23 06:04:12 +0000"
+      "opened_chest": "2025-05-23 06:04:12 +0000",
+      "opened_cart": "2025-05-23 07:21:01 +0000"
     },
     "done": false
   },
@@ -1017,6 +1026,12 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-05-23 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-23 07:21:05 +0000"
     },
     "done": true
   },

@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-23 07:20:37 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-05-23 05:50:18 +0000"
@@ -454,6 +460,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-23 07:13:14 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2025-05-23 05:50:18 +0000"
@@ -613,7 +625,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-05-23 06:15:58 +0000",
-      "opened_chest": "2025-05-23 05:57:25 +0000"
+      "opened_chest": "2025-05-23 05:57:25 +0000",
+      "opened_cart": "2025-05-23 07:20:37 +0000"
     },
     "done": false
   },
@@ -676,6 +689,20 @@
       "has_acacia": "2025-05-23 05:50:18 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-23 07:20:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "copper": "2025-05-23 07:20:48 +0000",
+      "skyslime_vine": "2025-05-23 07:20:48 +0000",
+      "bone": "2025-05-23 07:20:48 +0000"
+    },
+    "done": false
   },
   "lootr:50loot": {
     "criteria": {
@@ -825,6 +852,12 @@
       "rainbowcoal": "2025-05-23 05:50:18 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-05-23 07:20:48 +0000"
+    },
+    "done": false
   },
   "comforts:hammock_green": {
     "criteria": {
@@ -1048,6 +1081,12 @@
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-23 06:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-23 07:20:38 +0000"
     },
     "done": true
   },

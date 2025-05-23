@@ -700,7 +700,9 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2025-05-23 05:53:39 +0000"
+      "opened_barrel": "2025-05-23 07:21:13 +0000",
+      "opened_chest": "2025-05-23 05:53:39 +0000",
+      "opened_cart": "2025-05-23 07:19:55 +0000"
     },
     "done": false
   },
@@ -831,6 +833,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-05-23 07:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-23 06:20:49 +0000"
@@ -846,6 +854,12 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-23 06:28:04 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-05-23 07:14:07 +0000"
     },
     "done": true
   },
@@ -888,6 +902,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-23 06:25:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-05-23 07:19:55 +0000"
     },
     "done": true
   },
@@ -968,6 +988,20 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-23 07:20:01 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "string": "2025-05-23 07:20:01 +0000",
+      "cinderslime": "2025-05-23 07:20:01 +0000",
+      "wood": "2025-05-23 07:20:01 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-23 06:27:44 +0000"
@@ -986,11 +1020,29 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-23 07:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-23 06:09:32 +0000"
     },
     "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-05-23 07:21:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-05-23 07:20:01 +0000"
+    },
+    "done": false
   },
   "new_slab_variants:recipes/building_blocks/hay_block_slab": {
     "criteria": {
@@ -1007,6 +1059,12 @@
   "new_slab_variants:recipes/building_blocks/oak_wood_slab": {
     "criteria": {
       "has_oak_wood": "2025-05-23 07:06:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/netherite_tier": {
+    "criteria": {
+      "harvest_level": "2025-05-23 07:20:01 +0000"
     },
     "done": true
   },
