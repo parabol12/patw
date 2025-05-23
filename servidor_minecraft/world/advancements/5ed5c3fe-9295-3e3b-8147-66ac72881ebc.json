@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-05-23 06:55:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/orange_maple_hedge": {
     "criteria": {
       "has_birch": "2025-05-23 05:57:58 +0000"
@@ -176,6 +182,12 @@
   "mcwbiomesoplenty:recipes/yellow_maple_hedge": {
     "criteria": {
       "has_birch": "2025-05-23 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-23 06:53:06 +0000"
     },
     "done": true
   },
@@ -472,6 +484,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-23 06:55:29 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/palm_fences": {
     "criteria": {
       "has_acacia": "2025-05-23 05:57:58 +0000"
@@ -647,6 +665,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-23 07:01:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-23 06:15:46 +0000"
@@ -694,6 +718,7 @@
       "willow_forest": "2025-05-23 06:44:56 +0000",
       "grassy_beach": "2025-05-23 05:57:59 +0000",
       "rocky_meadow": "2025-05-23 06:45:39 +0000",
+      "highland_fields": "2025-05-23 06:57:03 +0000",
       "magnolia_highlands": "2025-05-23 06:44:41 +0000",
       "lupine_plains": "2025-05-23 06:41:34 +0000"
     },
@@ -732,6 +757,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2025-05-23 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-05-23 06:57:17 +0000"
     },
     "done": true
   },
@@ -836,6 +867,7 @@
       "willow_forest": "2025-05-23 06:44:56 +0000",
       "grassy_beach": "2025-05-23 05:57:59 +0000",
       "rocky_meadow": "2025-05-23 06:45:39 +0000",
+      "highland_fields": "2025-05-23 06:57:03 +0000",
       "magnolia_highlands": "2025-05-23 06:44:41 +0000",
       "lupine_plains": "2025-05-23 06:41:34 +0000"
     },
@@ -904,6 +936,12 @@
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2025-05-23 06:22:39 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-23 06:58:35 +0000"
     },
     "done": true
   },

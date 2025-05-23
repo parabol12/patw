@@ -4991,3 +4991,58 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [23May2025 06:51:34.425] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32516, l='ServerLevel[world]', x=-2262.50, y=73.00, z=2142.50]
 [23May2025 06:52:08.028] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32603, l='ServerLevel[world]', x=-2253.50, y=70.00, z=2156.50]
 [23May2025 06:52:16.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32618, l='ServerLevel[world]', x=-2248.50, y=75.00, z=2092.50]
+[23May2025 06:53:00.768] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Khytwel'/31437, l='ServerLevel[world]', x=-2292.30, y=78.00, z=2218.70] died, message: 'Khytwel was slain by zimee777'
+[23May2025 06:53:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Gravedigger]
+[23May2025 06:53:54.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> toma zime
+[23May2025 06:54:01.977] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33823, l='ServerLevel[world]', x=-2253.50, y=70.00, z=2157.50]
+[23May2025 06:54:07.478] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33882, l='ServerLevel[world]', x=-2254.50, y=73.00, z=2119.50]
+[23May2025 06:54:10.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Best Friends Forever]
+[23May2025 06:54:14.677] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33919, l='ServerLevel[world]', x=-2256.50, y=75.00, z=2096.50]
+[23May2025 06:54:21.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33948, l='ServerLevel[world]', x=-2284.50, y=71.00, z=2101.50]
+[23May2025 06:54:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> el horno}
+[23May2025 06:55:11.977] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34536, l='ServerLevel[world]', x=-2255.50, y=75.00, z=2096.50]
+[23May2025 06:55:29.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [What a Deal!]
+[23May2025 06:55:34.179] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34672, l='ServerLevel[world]', x=-2260.50, y=73.00, z=2140.50]
+[23May2025 06:56:15.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Light Up The World!]
+[23May2025 06:56:31.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [What a Deal!]
+[23May2025 06:57:01.027] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[23May2025 06:57:17.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Close Quarters]
+[23May2025 06:57:52.983] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[23May2025 06:58:08.182] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23May2025 06:58:35.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Amateur Archaeologist]
+[23May2025 06:59:22.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> es enorme
+[23May2025 06:59:33.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> atrevido
+[23May2025 07:01:14.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Close Quarters]
+[23May2025 07:01:38.691] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[23May2025 07:01:38.692] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[23May2025 07:01:47.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Penteconter]
+[23May2025 07:02:11.294] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[23May2025 07:02:13.814] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-57, z=10}
+[23May2025 07:02:13.814] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=8}
+[23May2025 07:02:13.814] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=9}
+[23May2025 07:02:13.814] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=2}
+[23May2025 07:02:13.814] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=2}
+[23May2025 07:02:13.815] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-59, z=7}
+[23May2025 07:02:13.816] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=8}
+[23May2025 07:02:16.861] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[23May2025 07:02:21.537] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.540] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.551] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.557] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.565] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.572] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.576] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.583] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.594] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.598] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.602] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.606] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:21.613] [Worker-Main-35/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[23May2025 07:02:27.827] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[23May2025 07:02:28.435] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[23May2025 07:02:28.435] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[23May2025 07:02:28.436] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[23May2025 07:02:38.238] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[23May2025 07:02:38.733] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[23May2025 07:02:49.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Book of Monsters]
+[23May2025 07:02:57.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Would you Like to Know More?]

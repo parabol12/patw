@@ -639,6 +639,7 @@
     "criteria": {
       "marsh": "2025-05-23 05:50:12 +0000",
       "grassy_beach": "2025-05-23 06:42:58 +0000",
+      "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
     },
@@ -648,6 +649,7 @@
     "criteria": {
       "marsh": "2025-05-23 05:50:12 +0000",
       "grassy_beach": "2025-05-23 06:42:58 +0000",
+      "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
     },
@@ -788,6 +790,7 @@
       "minecraft:birch_forest": "2025-05-23 06:18:48 +0000",
       "minecraft:beach": "2025-05-23 06:39:56 +0000",
       "minecraft:river": "2025-05-23 05:56:29 +0000",
+      "autumnity:autumnity:maple_forest": "2025-05-23 06:56:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-23 06:17:27 +0000"
     },
     "done": false
@@ -845,6 +848,12 @@
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-05-23 06:25:21 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/copper_block_slab": {
+    "criteria": {
+      "has_copper_block": "2025-05-23 07:00:15 +0000"
     },
     "done": true
   },
@@ -921,6 +930,12 @@
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2025-05-23 06:25:21 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/raw_copper_block_slab": {
+    "criteria": {
+      "has_raw_copper_block": "2025-05-23 06:58:30 +0000"
     },
     "done": true
   },
