@@ -1359,9 +1359,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-05-24 06:40:11 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-05-24 06:25:54 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-05-24 06:40:11 +0000"
     },
     "done": true
   },

@@ -3521,3 +3521,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 06:29:16.786] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
 [24May2025 06:29:32.828] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
 [24May2025 06:29:32.868] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 06:34:46.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> @backpack
