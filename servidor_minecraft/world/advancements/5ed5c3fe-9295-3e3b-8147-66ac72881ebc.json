@@ -1169,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-24 05:32:51 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/white_wool_slab": {
     "criteria": {
       "has_white_wool": "2025-05-24 05:29:16 +0000"
