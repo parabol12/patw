@@ -1403,5 +1403,17 @@
     },
     "done": true
   },
+  "aether:obsidian_armor": {
+    "criteria": {
+      "obsidian_helmet": "2025-05-24 07:31:03 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 07:31:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

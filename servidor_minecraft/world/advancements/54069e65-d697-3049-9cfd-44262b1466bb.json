@@ -1431,11 +1431,23 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-05-24 07:22:50 +0000"
+    },
+    "done": true
+  },
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-05-24 07:13:43 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-24 07:27:38 +0000"
+    },
+    "done": false
   },
   "paraglider:paraglider": {
     "criteria": {
@@ -1482,6 +1494,24 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-05-24 07:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-05-24 07:26:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-24 07:31:14 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-05-24 07:24:53 +0000"
     },
     "done": true
   },
