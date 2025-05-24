@@ -4643,3 +4643,32 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 05:50:25.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> reviviimeee
 [24May2025 05:50:39.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> internet boliviano la cocha
 [24May2025 05:53:37.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> f madera
+[24May2025 05:55:01.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> que internet down loco
+[24May2025 05:55:06.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> me etoy enojando
+[24May2025 05:55:36.549] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/83482, l='ServerLevel[world]', x=-2642.50, y=72.00, z=4081.50]
+[24May2025 06:00:01.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: You logged in from another location
+[24May2025 06:00:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[24May2025 06:00:01.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:60999] logged in with entity id 84983 at (-2674.167632518385, 73.0, 4218.662965322936)
+[24May2025 06:00:01.928] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[24May2025 06:00:01.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[24May2025 06:00:01.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[24May2025 06:00:01.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[24May2025 06:00:01.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[24May2025 06:00:01.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[24May2025 06:00:01.933] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[24May2025 06:00:01.963] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[24May2025 06:00:01.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[24May2025 06:00:02.013] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[24May2025 06:00:02.018] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[24May2025 06:00:02.281] [ForkJoinPool-4-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[24May2025 06:00:02.364] [ForkJoinPool-4-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[24May2025 06:00:02.466] [ForkJoinPool-4-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[24May2025 06:00:05.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/84988, l='ServerLevel[world]', x=-2562.50, y=73.00, z=4138.50]
+[24May2025 06:03:04.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> AJAJJAJAJAJAJAJAJAAJ
+[24May2025 06:03:06.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> las manos
+[24May2025 06:03:13.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> qie
+[24May2025 06:03:23.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> haces como cuando le pegas a un aldeano
+[24May2025 06:03:28.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> que alza las manos
+[24May2025 06:03:35.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> crepeeeeer
+[24May2025 06:03:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> adentro
+[24May2025 06:03:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> adentrooooooo
