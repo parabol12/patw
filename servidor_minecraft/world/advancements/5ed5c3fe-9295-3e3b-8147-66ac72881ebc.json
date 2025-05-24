@@ -682,9 +682,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-23 06:14:08 +0000",
+      "minecraft:sunflower_plains": "2025-05-24 05:07:45 +0000",
       "minecraft:birch_forest": "2025-05-23 06:19:01 +0000",
       "minecraft:beach": "2025-05-23 06:36:26 +0000",
       "minecraft:river": "2025-05-23 06:06:42 +0000",
+      "autumnity:autumnity:maple_forest": "2025-05-24 05:07:41 +0000",
       "minecraft:desert": "2025-05-23 05:59:12 +0000",
       "minecraft:ocean": "2025-05-23 06:36:09 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-23 06:14:10 +0000",
@@ -698,6 +700,8 @@
       "rocky_shrubland": "2025-05-23 06:00:18 +0000",
       "maple_woods": "2025-05-23 06:03:46 +0000",
       "orchard": "2025-05-23 06:47:28 +0000",
+      "pasture": "2025-05-24 05:11:03 +0000",
+      "prairie": "2025-05-24 05:04:30 +0000",
       "gravel_beach": "2025-05-23 06:33:27 +0000"
     },
     "done": false
@@ -752,7 +756,8 @@
       "cooked_beef": "2025-05-23 06:15:34 +0000",
       "sweet_berries": "2025-05-23 06:07:09 +0000",
       "potato": "2025-05-23 06:10:21 +0000",
-      "bread": "2025-05-23 06:04:26 +0000"
+      "bread": "2025-05-23 06:04:26 +0000",
+      "melon_slice": "2025-05-24 05:09:05 +0000"
     },
     "done": false
   },
@@ -1150,6 +1155,30 @@
       "blue_bioshroom": "2025-05-23 07:35:30 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-24 05:12:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 05:09:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 05:09:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 05:09:46 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

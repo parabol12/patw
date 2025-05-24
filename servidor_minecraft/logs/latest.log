@@ -4287,3 +4287,114 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 05:02:45.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ya no le gusto como le hice lo de madera
 [24May2025 05:02:47.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> si
 [24May2025 05:02:48.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :v
+[24May2025 05:03:27.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> mira juan
+[24May2025 05:03:51.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> tene que ir para el norte
+[24May2025 05:04:20.823] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2898, y=-54, z=3997}
+[24May2025 05:04:20.823] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2898, y=-54, z=3997}
+[24May2025 05:04:20.829] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/67920, l='ServerLevel[world]', x=-2909.50, y=22.00, z=3985.50] as it would cause deadlock
+[24May2025 05:04:27.599] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4060}
+[24May2025 05:04:27.599] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4059}
+[24May2025 05:04:27.599] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4060}
+[24May2025 05:04:27.599] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4059}
+[24May2025 05:04:29.744] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/68023, l='ServerLevel[world]', x=-2896.50, y=-53.00, z=3970.50] as it would cause deadlock
+[24May2025 05:04:29.745] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/68025, l='ServerLevel[world]', x=-2904.50, y=-53.00, z=3970.50] as it would cause deadlock
+[24May2025 05:04:29.755] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/68027, l='ServerLevel[world]', x=-2909.50, y=22.00, z=3977.50] as it would cause deadlock
+[24May2025 05:06:39.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> dejo mis cosas aca
+[24May2025 05:06:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> pone /sethome :v
+[24May2025 05:06:59.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> a
+[24May2025 05:07:33.243] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2863, y=-31, z=3907}
+[24May2025 05:07:33.244] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2862, y=-31, z=3907}
+[24May2025 05:07:34.349] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/68797, l='ServerLevel[world]', x=-2680.50, y=70.00, z=4086.50]
+[24May2025 05:07:37.386] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2752, y=-18, z=3884}
+[24May2025 05:07:42.285] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[24May2025 05:07:42.286] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[24May2025 05:07:42.287] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-58, z=9}
+[24May2025 05:07:42.287] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-57, z=8}
+[24May2025 05:07:42.287] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-58, z=6}
+[24May2025 05:07:42.287] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-57, z=4}
+[24May2025 05:08:13.151] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2918, y=-3, z=3932}
+[24May2025 05:08:13.151] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2919, y=-3, z=3932}
+[24May2025 05:08:13.151] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2918, y=-3, z=3932}
+[24May2025 05:08:13.151] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2919, y=-3, z=3932}
+[24May2025 05:08:20.262] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/69435, l='ServerLevel[world]', x=-2934.50, y=22.00, z=3952.50] as it would cause deadlock
+[24May2025 05:08:20.263] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/69437, l='ServerLevel[world]', x=-2942.50, y=22.00, z=3952.50] as it would cause deadlock
+[24May2025 05:08:20.276] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/69439, l='ServerLevel[world]', x=-2942.50, y=-53.00, z=3947.50] as it would cause deadlock
+[24May2025 05:08:20.346] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/69444, l='ServerLevel[world]', x=-2943.50, y=-28.00, z=3925.50] as it would cause deadlock
+[24May2025 05:08:23.540] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/69499, l='ServerLevel[world]', x=-2951.50, y=-28.00, z=3925.50] as it would cause deadlock
+[24May2025 05:08:23.550] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/69501, l='ServerLevel[world]', x=-2950.50, y=-53.00, z=3947.50] as it would cause deadlock
+[24May2025 05:08:26.586] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/69582, l='ServerLevel[world]', x=-2963.50, y=-53.00, z=4027.50] as it would cause deadlock
+[24May2025 05:08:29.786] [Worker-Main-13/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 05:08:29.832] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2987, y=21, z=3982}
+[24May2025 05:08:29.832] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2987, y=21, z=3982}
+[24May2025 05:08:30.374] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2986, y=21, z=4056}
+[24May2025 05:08:30.374] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2986, y=21, z=4056}
+[24May2025 05:08:43.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> era un dragon :,v
+[24May2025 05:08:45.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> el tesoro
+[24May2025 05:08:47.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> xd
+[24May2025 05:08:51.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> fui troleado
+[24May2025 05:09:06.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> a cuantos fps al final jugas?
+[24May2025 05:09:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> 60 fijo
+[24May2025 05:09:29.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> igual eso es sin config no?
+[24May2025 05:09:41.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> le baje algo
+[24May2025 05:09:44.224] [Server thread/WARN] [tombstone/]: The death event of the player TheFernet was canceled by another mod
+[24May2025 05:09:44.243] [Server thread/INFO] [tombstone/]: The player TheFernet has successfully been saved
+[24May2025 05:09:46.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has reached the goal [Strong or Careful]
+[24May2025 05:09:46.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet was doomed to fall by Fire Dragon
+[24May2025 05:09:46.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Your First Grave]
+[24May2025 05:09:46.328] [Server thread/INFO] [tombstone/]: The player TheFernet has successfully been saved
+[24May2025 05:09:49.754] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 05:09:49.754] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 05:09:49.754] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 05:09:49.754] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 05:09:54.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has reached the goal [Here They Come]
+[24May2025 05:09:56.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> xd
+[24May2025 05:10:08.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> dragon de mierda
+[24May2025 05:10:47.652] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71035, l='ServerLevel[world]', x=-3000.50, y=22.00, z=4024.50] as it would cause deadlock
+[24May2025 05:10:47.652] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/71037, l='ServerLevel[world]', x=-2992.50, y=22.00, z=4024.50] as it would cause deadlock
+[24May2025 05:10:49.885] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71114, l='ServerLevel[world]', x=-3021.50, y=-3.00, z=4016.50] as it would cause deadlock
+[24May2025 05:10:49.948] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3024, y=-30, z=3988}
+[24May2025 05:10:49.949] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3023, y=-29, z=3988}
+[24May2025 05:10:49.949] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3024, y=-30, z=3988}
+[24May2025 05:10:49.949] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3023, y=-29, z=3988}
+[24May2025 05:10:53.123] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3027, y=-36, z=3992}
+[24May2025 05:10:53.124] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3028, y=-36, z=3991}
+[24May2025 05:10:53.124] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3027, y=-36, z=3992}
+[24May2025 05:10:53.124] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3028, y=-36, z=3991}
+[24May2025 05:10:53.496] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71219, l='ServerLevel[world]', x=-3025.50, y=22.00, z=3974.50] as it would cause deadlock
+[24May2025 05:10:59.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> hay huevo le voy a a roba muajajja
+[24May2025 05:11:02.817] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71312, l='ServerLevel[world]', x=-3025.50, y=22.00, z=3966.50] as it would cause deadlock
+[24May2025 05:11:03.697] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3043, y=21, z=4055}
+[24May2025 05:11:03.697] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3043, y=21, z=4055}
+[24May2025 05:11:03.985] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71341, l='ServerLevel[world]', x=-3055.50, y=-28.00, z=3955.50] as it would cause deadlock
+[24May2025 05:11:07.634] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71399, l='ServerLevel[world]', x=-3000.50, y=22.00, z=3941.50] as it would cause deadlock
+[24May2025 05:11:07.635] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/71401, l='ServerLevel[world]', x=-2992.50, y=22.00, z=3941.50] as it would cause deadlock
+[24May2025 05:11:09.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/71408, l='ServerLevel[world]', x=-2644.50, y=72.00, z=4081.50]
+[24May2025 05:11:15.112] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/71494, l='ServerLevel[world]', x=-3012.50, y=-28.00, z=3906.50] as it would cause deadlock
+[24May2025 05:11:15.181] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/71497, l='ServerLevel[world]', x=-3038.50, y=-28.00, z=3907.50] as it would cause deadlock
+[24May2025 05:11:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> como que un huevo
+[24May2025 05:11:20.448] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3001, y=-29, z=3895}
+[24May2025 05:11:20.449] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3003, y=-29, z=3895}
+[24May2025 05:11:20.449] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3002, y=-28, z=3895}
+[24May2025 05:11:20.449] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3001, y=-29, z=3895}
+[24May2025 05:11:20.449] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3003, y=-29, z=3895}
+[24May2025 05:11:20.449] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3002, y=-28, z=3895}
+[24May2025 05:11:20.517] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71552, l='ServerLevel[world]', x=-3053.50, y=22.00, z=3893.50] as it would cause deadlock
+[24May2025 05:11:20.518] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/71554, l='ServerLevel[world]', x=-3045.50, y=22.00, z=3893.50] as it would cause deadlock
+[24May2025 05:11:23.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> si uno negro :v
+[24May2025 05:11:29.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> abue
+[24May2025 05:11:40.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> si es una cria, vas a poder montar al dragon
+[24May2025 05:11:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> cuando crezca obeo
+[24May2025 05:11:49.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :v
+[24May2025 05:12:07.085] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 05:12:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [A Strange Grave Dust]
+[24May2025 05:12:23.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> bui
+[24May2025 05:12:28.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> casi me coje
+[24May2025 05:12:35.848] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3085, y=14, z=4057}
+[24May2025 05:12:35.848] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3085, y=15, z=4056}
+[24May2025 05:12:35.848] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3085, y=14, z=4057}
+[24May2025 05:12:35.848] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3085, y=15, z=4056}
+[24May2025 05:12:35.871] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3081, y=-4, z=4041}
+[24May2025 05:12:35.871] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3081, y=-4, z=4041}
+[24May2025 05:12:36.618] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/72118, l='ServerLevel[world]', x=-3063.50, y=-28.00, z=3955.50] as it would cause deadlock
+[24May2025 05:12:45.089] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 05:12:48.819] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
