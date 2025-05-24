@@ -1286,6 +1286,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-05-24 03:40:24 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/chain_death": {
     "criteria": {
       "coded_trigger": "2025-05-24 02:59:08 +0000"
