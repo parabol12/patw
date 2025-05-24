@@ -3569,3 +3569,112 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 02:20:22.489] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
 [24May2025 02:20:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> KAAJAKA
 [24May2025 02:20:26.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> naaaaaaaaaaaaa
+[24May2025 02:20:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> no podo cree
+[24May2025 02:20:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> jajajajajajajajajaajj
+[24May2025 02:20:52.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> me suicido
+[24May2025 02:20:56.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> dale
+[24May2025 02:21:03.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was incinerated by a dragon
+[24May2025 02:21:04.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> que me quedan 10 s
+[24May2025 02:21:04.777] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 02:21:04.777] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 02:21:04.777] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 02:21:04.778] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 02:21:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> daleeeeeeeeee
+[24May2025 02:21:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Strong or Careful]
+[24May2025 02:21:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was slain by Fire Dragon
+[24May2025 02:21:12.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Your First Grave]
+[24May2025 02:21:13.780] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 02:21:13.781] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 02:21:13.781] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 02:21:13.781] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 02:21:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [The Most Useful Key]
+[24May2025 02:21:18.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ajajajajajajajjajaj
+[24May2025 02:21:23.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [A Fast Comeback]
+[24May2025 02:21:30.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> jiji
+[24May2025 02:21:58.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> banda de dragonmes cuidadp
+[24May2025 02:23:04.319] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 02:23:04.343] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 02:23:09.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> bue
+[24May2025 02:23:33.406] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/10085, l='ServerLevel[world]', x=-2214.50, y=-53.00, z=3521.50] as it would cause deadlock
+[24May2025 02:23:39.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> nabda tp
+[24May2025 02:23:41.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> manda
+[24May2025 02:23:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> me salve de tuje
+[24May2025 02:24:04.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> noni
+[24May2025 02:24:05.490] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2217, y=21, z=3584}
+[24May2025 02:24:05.491] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2217, y=21, z=3584}
+[24May2025 02:24:13.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> que?
+[24May2025 02:24:46.813] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 02:24:46.833] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 02:24:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> la conchya
+[24May2025 02:24:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 burned to death
+[24May2025 02:24:57.249] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 02:25:02.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> JAJAJA
+[24May2025 02:25:03.648] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 02:25:03.649] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 02:25:03.649] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 02:25:03.649] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 02:25:35.868] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2664, y=17, z=3711}
+[24May2025 02:25:52.978] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2361, y=-29, z=3774}
+[24May2025 02:25:52.978] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2361, y=-29, z=3774}
+[24May2025 02:25:58.964] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2295, y=-43, z=3801}
+[24May2025 02:25:58.964] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2295, y=-43, z=3803}
+[24May2025 02:25:58.964] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2296, y=-43, z=3803}
+[24May2025 02:25:58.964] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2295, y=-43, z=3801}
+[24May2025 02:25:58.964] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2295, y=-43, z=3803}
+[24May2025 02:25:58.965] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2296, y=-43, z=3803}
+[24May2025 02:25:59.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> hora de barquito
+[24May2025 02:26:11.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Ol' Betsy]
+[24May2025 02:26:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> nooooooo
+[24May2025 02:26:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> una puta
+[24May2025 02:26:44.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> hay que matarla
+[24May2025 02:27:32.272] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/11998, l='ServerLevel[world]', x=-2281.50, y=-53.00, z=3837.50] as it would cause deadlock
+[24May2025 02:27:47.771] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2240, y=-29, z=3841}
+[24May2025 02:27:47.771] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2239, y=-28, z=3841}
+[24May2025 02:27:47.771] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2238, y=-28, z=3841}
+[24May2025 02:27:47.772] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2240, y=-29, z=3841}
+[24May2025 02:27:47.772] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2239, y=-28, z=3841}
+[24May2025 02:27:47.772] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2238, y=-28, z=3841}
+[24May2025 02:27:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Take Aim]
+[24May2025 02:27:56.886] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2175, y=21, z=3575}
+[24May2025 02:27:56.887] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2175, y=22, z=3575}
+[24May2025 02:27:56.887] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2175, y=21, z=3575}
+[24May2025 02:27:56.887] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2175, y=22, z=3575}
+[24May2025 02:27:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Tie me to the Mast]
+[24May2025 02:28:13.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> me agarro la muy puta
+[24May2025 02:29:24.277] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12942, l='ServerLevel[world]', x=-2296.50, y=-53.00, z=3884.50] as it would cause deadlock
+[24May2025 02:29:25.367] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/12987, l='ServerLevel[world]', x=-2391.50, y=-53.00, z=3881.50] as it would cause deadlock
+[24May2025 02:29:26.243] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13006, l='ServerLevel[world]', x=-2296.50, y=-53.00, z=3892.50] as it would cause deadlock
+[24May2025 02:29:26.937] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2352, y=-54, z=3897}
+[24May2025 02:29:26.937] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2352, y=-54, z=3897}
+[24May2025 02:29:26.967] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2353, y=-54, z=3897}
+[24May2025 02:29:26.967] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2353, y=-54, z=3897}
+[24May2025 02:29:26.986] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13011, l='ServerLevel[world]', x=-2375.50, y=-53.00, z=3895.50] as it would cause deadlock
+[24May2025 02:29:27.543] [Worker-Main-13/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:29:29.032] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13066, l='ServerLevel[world]', x=-2242.50, y=-28.00, z=3908.50] as it would cause deadlock
+[24May2025 02:29:29.081] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13068, l='ServerLevel[world]', x=-2234.50, y=-28.00, z=3908.50] as it would cause deadlock
+[24May2025 02:29:29.495] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2327, y=-54, z=3910}
+[24May2025 02:29:29.495] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2325, y=-53, z=3910}
+[24May2025 02:29:29.495] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2327, y=-54, z=3910}
+[24May2025 02:29:29.495] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2325, y=-53, z=3910}
+[24May2025 02:29:29.520] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2345, y=-54, z=3910}
+[24May2025 02:29:29.520] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2345, y=-53, z=3910}
+[24May2025 02:29:29.520] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2345, y=-54, z=3910}
+[24May2025 02:29:29.520] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2345, y=-53, z=3910}
+[24May2025 02:29:29.727] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13078, l='ServerLevel[world]', x=-2392.50, y=-53.00, z=3917.50] as it would cause deadlock
+[24May2025 02:29:29.832] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/13091, l='ServerLevel[world]', x=-2421.50, y=-53.00, z=3916.50] as it would cause deadlock
+[24May2025 02:29:53.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Ice Bucket Challenge]
+[24May2025 02:30:08.432] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/13223, l='ServerLevel[world]', x=-2392.50, y=-53.00, z=3925.50] as it would cause deadlock
+[24May2025 02:30:08.638] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/13239, l='ServerLevel[world]', x=-2422.50, y=-53.00, z=3926.50] as it would cause deadlock
+[24May2025 02:30:08.660] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13241, l='ServerLevel[world]', x=-2339.50, y=-53.00, z=3927.50] as it would cause deadlock
+[24May2025 02:30:08.846] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13243, l='ServerLevel[world]', x=-2331.50, y=-53.00, z=3927.50] as it would cause deadlock
+[24May2025 02:30:28.248] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2528, y=56, z=3904} but found not block entity block Block{minecraft:air} at location
+[24May2025 02:30:28.248] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2528, y=56, z=3904}
+[24May2025 02:30:28.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2528, y=56, z=3906} but found not block entity block Block{minecraft:air} at location
+[24May2025 02:30:28.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2528, y=56, z=3906}
+[24May2025 02:30:28.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2528, y=56, z=3918} but found not block entity block Block{minecraft:air} at location
+[24May2025 02:30:28.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2528, y=56, z=3918}
+[24May2025 02:30:28.451] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2406, y=-54, z=3948}
+[24May2025 02:30:28.451] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2406, y=-54, z=3948}
+[24May2025 02:30:28.600] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2340, y=-43, z=3945}
+[24May2025 02:30:28.600] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2340, y=-43, z=3945}
+[24May2025 02:30:30.221] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13371, l='ServerLevel[world]', x=-2243.50, y=-53.00, z=3965.50] as it would cause deadlock

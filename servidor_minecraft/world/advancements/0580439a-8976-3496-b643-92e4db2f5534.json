@@ -1020,7 +1020,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "magnolia_log": "2025-05-23 06:47:10 +0000"
+      "magnolia_log": "2025-05-23 06:47:10 +0000",
+      "pine_log": "2025-05-24 02:26:57 +0000"
     },
     "done": false
   },
@@ -1254,9 +1255,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-05-24 02:18:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-24 02:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-24 02:18:49 +0000"
     },
     "done": true
   },

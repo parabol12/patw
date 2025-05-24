@@ -820,6 +820,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-23 06:22:47 +0000",
+      "cooked_beef": "2025-05-24 02:18:46 +0000",
       "sweet_berries": "2025-05-23 05:57:58 +0000",
       "bread": "2025-05-23 06:12:51 +0000"
     },
@@ -1163,6 +1164,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 02:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-24 02:14:53 +0000"
@@ -1172,6 +1179,48 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-24 02:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-24 02:26:11 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-05-24 02:20:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:21:12 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-05-24 02:22:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:21:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:21:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-24 02:21:13 +0000"
     },
     "done": true
   },
