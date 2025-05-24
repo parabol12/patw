@@ -3678,3 +3678,101 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 02:30:28.600] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2340, y=-43, z=3945}
 [24May2025 02:30:28.600] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2340, y=-43, z=3945}
 [24May2025 02:30:30.221] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/13371, l='ServerLevel[world]', x=-2243.50, y=-53.00, z=3965.50] as it would cause deadlock
+[24May2025 02:30:50.779] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-57, z=-54}
+[24May2025 02:30:50.780] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-58, z=-55}
+[24May2025 02:30:52.871] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[24May2025 02:30:52.878] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[24May2025 02:30:55.650] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[24May2025 02:31:02.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> gargola?
+[24May2025 02:31:04.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> digo
+[24May2025 02:31:06.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> medusa
+[24May2025 02:31:09.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ajajajajjajajaajajajaj
+[24May2025 02:31:12.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> en donde
+[24May2025 02:31:17.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> a no
+[24May2025 02:31:25.869] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:31:30.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> mira
+[24May2025 02:32:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was turned to stone by Gorgon
+[24May2025 02:32:13.534] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 02:32:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> auy
+[24May2025 02:32:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> sie raaa
+[24May2025 02:32:13.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10088ms or 201 ticks behind
+[24May2025 02:32:13.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> m-
+[24May2025 02:32:17.680] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 02:32:17.680] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 02:32:17.680] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 02:32:17.681] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 02:32:21.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ajajjaajajajajajajajajjaja
+[24May2025 02:32:22.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> qye hdp
+[24May2025 02:32:26.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ni hace nada mude
+[24May2025 02:32:28.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ssi era viste
+[24May2025 02:32:50.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was turned into gorgonzola by Gorgon
+[24May2025 02:32:50.690] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 02:32:51.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Here They Come]
+[24May2025 02:32:52.358] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 02:32:52.359] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 02:32:52.359] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 02:32:52.359] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 02:33:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> hay que matarla
+[24May2025 02:33:11.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> quiero la cabeza
+[24May2025 02:33:27.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was turned into gorgonzola by Gorgon
+[24May2025 02:33:27.334] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 02:33:29.184] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 02:33:29.184] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 02:33:29.185] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 02:33:29.185] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 02:33:47.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Clash of the Titans]
+[24May2025 02:33:50.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> siiiiiiiiiiiiiii
+[24May2025 02:34:06.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Chain Death]
+[24May2025 02:34:06.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ was turned to stone by d0ce3_
+[24May2025 02:34:06.390] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 02:34:06.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> av-
+[24May2025 02:34:08.692] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 02:34:08.693] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 02:34:08.693] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 02:34:08.693] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 02:34:08.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> iu
+[24May2025 02:34:18.647] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 02:34:18.678] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 02:34:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> no tengo mas cabeza
+[24May2025 02:34:30.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> :(
+[24May2025 02:34:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> por graciosa
+[24May2025 02:34:39.547] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16130, l='ServerLevel[world]', x=-2546.50, y=73.00, z=3861.50]
+[24May2025 02:34:41.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ni armadura tengo ya
+[24May2025 02:34:47.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> yo meno
+[24May2025 02:34:59.262] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:35:33.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> no hay mas boton
+[24May2025 02:35:35.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> botin
+[24May2025 02:35:44.048] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16437, l='ServerLevel[world]', x=-2574.50, y=72.00, z=3913.50]
+[24May2025 02:35:44.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> no
+[24May2025 02:36:16.215] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:36:36.465] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:36:38.563] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:37:12.813] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:37:39.391] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:38:05.510] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:38:29.264] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:38:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> donde vamos a vivir
+[24May2025 02:38:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> todos
+[24May2025 02:38:37.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> nuse
+[24May2025 02:38:57.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2599, y=63, z=4195} BlockPos{x=-2598, y=62, z=4195}
+[24May2025 02:39:19.323] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2879, y=21, z=4013}
+[24May2025 02:39:19.323] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2878, y=21, z=4014}
+[24May2025 02:39:19.323] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2878, y=22, z=4014}
+[24May2025 02:39:19.323] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2879, y=21, z=4013}
+[24May2025 02:39:19.323] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2878, y=21, z=4014}
+[24May2025 02:39:19.323] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2878, y=22, z=4014}
+[24May2025 02:39:30.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> y si lo hacemos por aca?
+[24May2025 02:39:35.488] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2902, y=-29, z=4030}
+[24May2025 02:39:35.488] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2902, y=-29, z=4030}
+[24May2025 02:39:36.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> perame
+[24May2025 02:39:40.914] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18480, l='ServerLevel[world]', x=-2942.50, y=22.00, z=4049.50] as it would cause deadlock
+[24May2025 02:39:40.915] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18482, l='ServerLevel[world]', x=-2934.50, y=22.00, z=4049.50] as it would cause deadlock
+[24May2025 02:40:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> messi
+[24May2025 02:40:25.241] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[24May2025 02:40:25.242] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[24May2025 02:40:33.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> alla atras
+[24May2025 02:40:48.653] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4060}
+[24May2025 02:40:48.653] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4059}
+[24May2025 02:40:48.653] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4060}
+[24May2025 02:40:48.653] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2953, y=-29, z=4059}
+[24May2025 02:40:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> misma casa?

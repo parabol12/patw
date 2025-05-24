@@ -697,6 +697,7 @@
       "autumnity:autumnity:maple_forest": "2025-05-23 06:58:04 +0000",
       "minecraft:desert": "2025-05-23 05:55:57 +0000",
       "minecraft:ocean": "2025-05-23 06:55:21 +0000",
+      "minecraft:windswept_savanna": "2025-05-24 02:31:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-23 06:15:05 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-05-23 21:28:14 +0000"
     },
@@ -1270,6 +1271,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-24 02:18:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-05-24 02:33:47 +0000"
     },
     "done": true
   },

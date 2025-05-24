@@ -645,6 +645,7 @@
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "towering_cliffs": "2025-05-24 02:14:13 +0000",
+      "temperate_grove": "2025-05-24 02:30:54 +0000",
       "bioshroom_caves": "2025-05-23 07:34:40 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
     },
@@ -659,6 +660,7 @@
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "towering_cliffs": "2025-05-24 02:14:13 +0000",
+      "temperate_grove": "2025-05-24 02:30:54 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
     },
     "done": false
@@ -801,6 +803,8 @@
       "minecraft:beach": "2025-05-23 06:39:56 +0000",
       "minecraft:river": "2025-05-23 05:56:29 +0000",
       "autumnity:autumnity:maple_forest": "2025-05-23 06:56:13 +0000",
+      "minecraft:ocean": "2025-05-24 02:27:29 +0000",
+      "minecraft:windswept_savanna": "2025-05-24 02:31:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-23 06:17:27 +0000"
     },
     "done": false
@@ -845,7 +849,8 @@
       "minecraft:spider": "2025-05-23 06:19:08 +0000",
       "minecraft:creeper": "2025-05-23 06:27:51 +0000",
       "minecraft:witch": "2025-05-23 06:27:44 +0000",
-      "minecraft:zombie": "2025-05-23 06:17:44 +0000"
+      "minecraft:zombie": "2025-05-23 06:17:44 +0000",
+      "minecraft:drowned": "2025-05-24 02:37:34 +0000"
     },
     "done": false
   },
@@ -1164,15 +1169,51 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
+    "criteria": {
+      "has_redstone_block": "2025-05-24 02:36:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-05-24 02:21:13 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-24 02:27:51 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-05-24 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-24 02:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-24 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:32:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:34:06 +0000"
     },
     "done": true
   },
@@ -1188,6 +1229,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/cracked_stone_bricks_slab": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2025-05-24 02:35:55 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-05-24 02:20:05 +0000"
@@ -1197,6 +1244,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-24 02:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-24 02:29:53 +0000"
     },
     "done": true
   },
