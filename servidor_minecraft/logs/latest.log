@@ -3527,3 +3527,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 07:00:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Half a flight]
 [24May2025 07:01:06.994] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/9237, l='ServerLevel[world]', x=-2680.50, y=70.00, z=4088.50]
 [24May2025 07:03:36.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [A Small Cemetery]
+[24May2025 07:12:00.594] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11507, l='ServerLevel[world]', x=-2664.50, y=73.00, z=4028.50]
+[24May2025 07:13:43.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [The Andesite Age]
+[24May2025 07:14:47.078] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []

@@ -689,6 +689,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-05-24 07:11:02 +0000",
       "minecraft:birch_forest": "2025-05-23 06:18:57 +0000",
       "minecraft:beach": "2025-05-23 06:42:19 +0000",
       "minecraft:dark_forest": "2025-05-23 21:19:17 +0000",
@@ -769,6 +770,7 @@
       "orchard": "2025-05-23 06:47:44 +0000",
       "redwood_forest": "2025-05-24 03:05:38 +0000",
       "dune_beach": "2025-05-24 03:00:44 +0000",
+      "pasture": "2025-05-24 07:10:14 +0000",
       "lavender_field": "2025-05-24 03:20:15 +0000",
       "grassland": "2025-05-23 21:23:20 +0000",
       "prairie": "2025-05-24 02:40:57 +0000",
@@ -1370,6 +1372,12 @@
       "has_black_stained_glass": "2025-05-24 06:49:47 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-24 07:10:45 +0000"
+    },
+    "done": false
   },
   "mcwroofs:recipes/stone": {
     "criteria": {

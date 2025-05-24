@@ -1424,15 +1424,45 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-05-24 07:05:42 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-05-24 07:00:10 +0000"
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 07:03:36 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/oak_leaves_slab": {
     "criteria": {
       "has_oak_leaves": "2025-05-24 07:00:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-05-24 07:03:36 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2025-05-24 07:03:18 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone_bricks": {
+    "criteria": {
+      "has_planks": "2025-05-24 07:03:18 +0000"
     },
     "done": true
   },
