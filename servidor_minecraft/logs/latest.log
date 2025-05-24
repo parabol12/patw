@@ -3494,3 +3494,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 01:57:00.432] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2624, y=-16, z=3116}
 [24May2025 01:57:00.432] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2624, y=-16, z=3117}
 [24May2025 01:57:29.365] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@62d39ebb
+[24May2025 02:00:16.196] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/2649, l='ServerLevel[world]', x=-2222.50, y=-41.00, z=3426.50] as it would cause deadlock
+[24May2025 02:00:35.768] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2229, y=-54, z=3462}
+[24May2025 02:00:35.768] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2230, y=-54, z=3462}
+[24May2025 02:00:35.768] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2229, y=-54, z=3462}
+[24May2025 02:00:35.768] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2230, y=-54, z=3462}
+[24May2025 02:00:52.237] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/2833, l='ServerLevel[world]', x=-2169.50, y=-31.00, z=3440.50] as it would cause deadlock
+[24May2025 02:00:55.922] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2148, y=-54, z=3387}
+[24May2025 02:00:55.922] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2149, y=-54, z=3388}
+[24May2025 02:00:55.922] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2148, y=-54, z=3387}
+[24May2025 02:00:55.922] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2149, y=-54, z=3388}
+[24May2025 02:01:10.696] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/3018, l='ServerLevel[world]', x=-2194.50, y=-53.00, z=3495.50] as it would cause deadlock
+[24May2025 02:01:10.893] [Worker-Main-11/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[24May2025 02:05:57.445] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/4002, l='ServerLevel[world]', x=-2214.50, y=-53.00, z=3521.50] as it would cause deadlock
+[24May2025 02:06:05.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.87.151.1:64795] logged in with entity id 4047 at (-2545.699999988079, 66.5625, 1287.225725048318)
+[24May2025 02:06:05.592] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to d0ce3_
+[24May2025 02:06:05.593] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to d0ce3_
+[24May2025 02:06:05.594] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to d0ce3_
+[24May2025 02:06:05.594] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to d0ce3_
+[24May2025 02:06:05.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to d0ce3_
+[24May2025 02:06:05.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to d0ce3_
+[24May2025 02:06:05.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to d0ce3_
+[24May2025 02:06:05.637] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player d0ce3_
+[24May2025 02:06:05.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[24May2025 02:06:05.710] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[24May2025 02:06:05.713] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[24May2025 02:06:05.717] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[24May2025 02:06:05.724] [Server thread/INFO] [Jade/]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[24May2025 02:06:54.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> donde esta mi mujer?
+[24May2025 02:06:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> acaaa
+[24May2025 02:07:01.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> hacete tp
+[24May2025 02:07:22.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> cuidado
+[24May2025 02:07:33.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> che
+[24May2025 02:07:39.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> de que son tus puños
+[24May2025 02:07:47.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> cota de malla
+[24May2025 02:07:49.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> toma
+[24May2025 02:08:27.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> gracia mi amore
+[24May2025 02:08:31.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> mira
+[24May2025 02:08:44.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ah si
+[24May2025 02:09:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Ambush]
+[24May2025 02:09:28.620] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2217, y=21, z=3584}
+[24May2025 02:09:28.620] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2217, y=21, z=3584}
