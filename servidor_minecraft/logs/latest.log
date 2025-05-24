@@ -3535,3 +3535,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 02:09:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Ambush]
 [24May2025 02:09:28.620] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2217, y=21, z=3584}
 [24May2025 02:09:28.620] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2217, y=21, z=3584}
+[24May2025 02:11:25.294] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-58, z=6}
+[24May2025 02:11:25.296] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-57, z=4}
+[24May2025 02:11:25.471] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-58, z=9}
+[24May2025 02:11:25.472] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=27, y=-57, z=8}
+[24May2025 02:14:18.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Fortuitous Militia]
+[24May2025 02:14:46.899] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-57, z=10}
+[24May2025 02:14:46.900] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=8}
+[24May2025 02:14:46.900] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=44, y=-58, z=9}
+[24May2025 02:14:46.900] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=2}
+[24May2025 02:14:46.900] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=2}
+[24May2025 02:14:46.935] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-59, z=7}
+[24May2025 02:14:46.935] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=48, y=-57, z=8}
+[24May2025 02:14:53.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Voluntary Exile]
+[24May2025 02:15:40.222] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-59, z=8}
+[24May2025 02:15:40.224] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-59, z=12}
+[24May2025 02:16:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> juan veniw
+[24May2025 02:16:43.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> vvoy
+[24May2025 02:17:47.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> donde
+[24May2025 02:18:02.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> tamos aca
+[24May2025 02:18:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> d
+[24May2025 02:18:06.872] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
+[24May2025 02:18:06.926] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 02:18:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> xd
+[24May2025 02:18:11.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> Cprreeeee
+[24May2025 02:18:25.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> correeeeeeeeeeee
+[24May2025 02:18:49.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Ice Bucket Challenge]
+[24May2025 02:19:00.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> dragon del orto
+[24May2025 02:20:05.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Penteconter]
+[24May2025 02:20:12.515] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
+[24May2025 02:20:12.539] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 02:20:22.466] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 02:20:22.489] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 02:20:24.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> KAAJAKA
+[24May2025 02:20:26.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> naaaaaaaaaaaaa

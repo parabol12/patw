@@ -644,6 +644,7 @@
       "blackwood_taiga": "2025-05-23 07:09:38 +0000",
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
+      "towering_cliffs": "2025-05-24 02:14:13 +0000",
       "bioshroom_caves": "2025-05-23 07:34:40 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
     },
@@ -657,6 +658,7 @@
       "blackwood_taiga": "2025-05-23 07:09:38 +0000",
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
+      "towering_cliffs": "2025-05-24 02:14:13 +0000",
       "lupine_plains": "2025-05-23 06:41:58 +0000"
     },
     "done": false
@@ -1158,6 +1160,18 @@
   "paraglider:pray_to_the_goddess": {
     "criteria": {
       "bargain": "2025-05-23 07:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-24 02:14:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:14:18 +0000"
     },
     "done": true
   },

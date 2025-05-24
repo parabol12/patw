@@ -647,6 +647,7 @@
       "highland_fields": "2025-05-23 07:01:03 +0000",
       "magnolia_highlands": "2025-05-23 21:14:21 +0000",
       "boreal_forest": "2025-05-23 06:40:54 +0000",
+      "towering_cliffs": "2025-05-24 02:14:09 +0000",
       "bioshroom_caves": "2025-05-23 07:34:22 +0000",
       "lupine_plains": "2025-05-23 06:43:07 +0000"
     },
@@ -663,6 +664,7 @@
       "highland_fields": "2025-05-23 07:01:03 +0000",
       "magnolia_highlands": "2025-05-23 21:14:21 +0000",
       "boreal_forest": "2025-05-23 06:40:54 +0000",
+      "towering_cliffs": "2025-05-24 02:14:09 +0000",
       "lupine_plains": "2025-05-23 06:43:07 +0000"
     },
     "done": false
@@ -1120,6 +1122,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-24 02:16:05 +0000",
       "minecraft:skeleton": "2025-05-23 07:12:23 +0000",
       "minecraft:spider": "2025-05-23 21:26:35 +0000",
       "minecraft:creeper": "2025-05-23 07:31:47 +0000",
@@ -1248,6 +1251,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-05-23 21:33:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:09:18 +0000"
     },
     "done": true
   },
