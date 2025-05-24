@@ -3508,3 +3508,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 06:16:36.384] [Server thread/INFO] [Jade/]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
 [24May2025 06:16:43.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11707ms or 234 ticks behind
 [24May2025 06:21:29.176] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@d6bee9c
+[24May2025 06:25:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Pic-A-Nic Basket?]
+[24May2025 06:26:00.522] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 06:26:00.588] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 06:27:38.095] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3466, l='ServerLevel[world]', x=-2552.50, y=72.00, z=4375.50]
+[24May2025 06:28:59.582] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 06:28:59.632] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 06:29:15.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by d0ce3_
+[24May2025 06:29:16.785] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 06:29:16.786] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 06:29:16.786] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 06:29:16.786] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 06:29:32.828] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 06:29:32.868] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
