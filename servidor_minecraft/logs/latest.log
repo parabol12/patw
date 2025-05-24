@@ -4096,3 +4096,44 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 04:11:31.126] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2351, y=23, z=4749}
 [24May2025 04:11:59.411] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
 [24May2025 04:11:59.434] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 04:12:13.162] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2431, y=-54, z=4699}
+[24May2025 04:12:13.163] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2431, y=-54, z=4699}
+[24May2025 04:12:13.296] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2426, y=-29, z=4710}
+[24May2025 04:12:13.296] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2427, y=-29, z=4709}
+[24May2025 04:12:13.296] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2427, y=-28, z=4709}
+[24May2025 04:12:13.297] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2426, y=-29, z=4710}
+[24May2025 04:12:13.297] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2427, y=-29, z=4709}
+[24May2025 04:12:13.297] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2427, y=-28, z=4709}
+[24May2025 04:12:13.348] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2420, y=-30, z=4750}
+[24May2025 04:12:13.348] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2420, y=-30, z=4750}
+[24May2025 04:12:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ayuda
+[24May2025 04:12:15.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :v
+[24May2025 04:12:58.331] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2433, y=-54, z=4699}
+[24May2025 04:12:58.331] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2433, y=-54, z=4699}
+[24May2025 04:13:07.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> mimi juan porfa
+[24May2025 04:13:31.848] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2464, y=21, z=4658}
+[24May2025 04:13:31.848] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2464, y=21, z=4658}
+[24May2025 04:14:21.392] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2295, y=-32, z=4104}
+[24May2025 04:14:21.392] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2295, y=-32, z=4105}
+[24May2025 04:14:30.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53583, l='ServerLevel[world]', x=-2403.50, y=71.00, z=4298.50]
+[24May2025 04:14:59.750] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54436, l='ServerLevel[world]', x=-2494.50, y=73.00, z=4319.50]
+[24May2025 04:15:33.450] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55470, l='ServerLevel[world]', x=-2513.50, y=72.00, z=4329.50]
+[24May2025 04:15:40.251] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55694, l='ServerLevel[world]', x=-2528.50, y=70.00, z=4328.50]
+[24May2025 04:15:44.399] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/55796, l='ServerLevel[world]', x=-2494.50, y=73.00, z=4317.50]
+[24May2025 04:17:44.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> JAJAJA la descripcion
+[24May2025 04:17:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> jajajajaj que dice
+[24May2025 04:18:08.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> mira lee
+[24May2025 04:18:28.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> lee
+[24May2025 04:18:35.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/56970, l='ServerLevel[world]', x=-2658.50, y=77.00, z=4375.50]
+[24May2025 04:18:45.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> y bueno
+[24May2025 04:19:20.002] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/57309, l='ServerLevel[world]', x=-2942.50, y=22.00, z=4049.50] as it would cause deadlock
+[24May2025 04:19:20.003] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/57311, l='ServerLevel[world]', x=-2934.50, y=22.00, z=4049.50] as it would cause deadlock
+[24May2025 04:20:07.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> mira
+[24May2025 04:20:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> miraaaaaaaa
+[24May2025 04:20:27.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> como
+[24May2025 04:20:37.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> se engancha solo
+[24May2025 04:20:45.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> pero tieneque ser mas alto
+[24May2025 04:21:26.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> tenes que vernir corriendo
+[24May2025 04:21:45.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> tampoco hace falta tanto xd
+[24May2025 04:21:53.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> es correr y saltas nomas
+[24May2025 04:21:57.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> la casa de que hacemos

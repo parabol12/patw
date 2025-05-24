@@ -683,6 +683,7 @@
       "rocky_shrubland": "2025-05-23 05:56:51 +0000",
       "maple_woods": "2025-05-23 05:52:53 +0000",
       "orchard": "2025-05-23 06:48:05 +0000",
+      "redwood_forest": "2025-05-24 04:12:09 +0000",
       "dune_beach": "2025-05-24 03:30:20 +0000",
       "lavender_field": "2025-05-24 03:24:28 +0000"
     },
@@ -1296,6 +1297,12 @@
   "new_slab_variants:recipes/building_blocks/calcite_slab": {
     "criteria": {
       "has_calcite": "2025-05-24 03:42:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-24 04:08:42 +0000"
     },
     "done": true
   },
