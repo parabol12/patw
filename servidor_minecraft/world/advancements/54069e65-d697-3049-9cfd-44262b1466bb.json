@@ -1352,6 +1352,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/stripped_spruce_log_slab": {
+    "criteria": {
+      "has_stripped_spruce_log": "2025-05-24 05:48:31 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
       "loot_simple_dungeon": "2025-05-24 03:32:19 +0000"
