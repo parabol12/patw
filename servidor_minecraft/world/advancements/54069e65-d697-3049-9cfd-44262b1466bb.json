@@ -834,6 +834,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-23 06:22:47 +0000",
       "cooked_beef": "2025-05-24 02:18:46 +0000",
+      "cooked_mutton": "2025-05-24 07:18:20 +0000",
       "sweet_berries": "2025-05-23 05:57:58 +0000",
       "bread": "2025-05-23 06:12:51 +0000"
     },
@@ -1430,6 +1431,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-05-24 07:13:43 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-05-24 07:00:10 +0000"
@@ -1469,6 +1476,12 @@
   "new_slab_variants:recipes/building_blocks/glass_slab": {
     "criteria": {
       "has_glass": "2025-05-24 06:32:27 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-24 07:17:41 +0000"
     },
     "done": true
   },
