@@ -4219,3 +4219,71 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 04:52:34.507] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
 [24May2025 04:52:34.507] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
 [24May2025 04:52:34.511] [Server thread/INFO] [Jade/]: Syncing config to TheFernet (5ed5c3fe-9295-3e3b-8147-66ac72881ebc)
+[24May2025 04:52:56.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> miralo desde aca
+[24May2025 04:52:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> che voy a comer mepa
+[24May2025 04:53:00.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> vuelvo
+[24May2025 04:53:02.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> te gusta aso?
+[24May2025 04:53:08.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> nop
+[24May2025 04:53:09.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheFernet lost connection: Disconnected
+[24May2025 04:53:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet left the game
+[24May2025 04:53:09.718] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
+[24May2025 04:53:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ajajajajajjaja
+[24May2025 04:53:11.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> xd
+[24May2025 04:53:16.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ahora arreglo cuando vengo
+[24May2025 04:53:18.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> hacela vos tonces
+[24May2025 04:53:19.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :,v
+[24May2025 04:53:25.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> pero ta linda neniuto
+[24May2025 04:53:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> voce ta linda
+[24May2025 04:53:47.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> tmaben
+[24May2025 04:53:57.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> hermosa
+[24May2025 04:54:02.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> le falta profundidad
+[24May2025 04:54:26.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ya vegngo en un ratitote
+[24May2025 04:54:28.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[24May2025 04:54:28.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[24May2025 04:59:01.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheFernet[/100.100.69.57:50546] logged in with entity id 66630 at (-3308.9269287383067, -22.0, 3092.870118364688)
+[24May2025 04:59:01.757] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to TheFernet
+[24May2025 04:59:01.757] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to TheFernet
+[24May2025 04:59:01.758] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to TheFernet
+[24May2025 04:59:01.758] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to TheFernet
+[24May2025 04:59:01.760] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to TheFernet
+[24May2025 04:59:01.762] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to TheFernet
+[24May2025 04:59:01.762] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to TheFernet
+[24May2025 04:59:01.790] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player TheFernet
+[24May2025 04:59:01.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet joined the game
+[24May2025 04:59:01.806] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player TheFernet just logged in with id 5ed5c3fe-9295-3e3b-8147-66ac72881ebc
+[24May2025 04:59:01.807] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
+[24May2025 04:59:01.808] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
+[24May2025 04:59:01.810] [Server thread/INFO] [Jade/]: Syncing config to TheFernet (5ed5c3fe-9295-3e3b-8147-66ac72881ebc)
+[24May2025 04:59:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> acepta
+[24May2025 04:59:34.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> acepttaaaa
+[24May2025 04:59:49.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> gracia
+[24May2025 05:00:10.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> tenes enderperl?
+[24May2025 05:00:12.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :(
+[24May2025 05:00:17.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> no
+[24May2025 05:00:25.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> gil me dejaste solo en gta xd
+[24May2025 05:00:42.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> y alan que te mintio todo pa jugar xd
+[24May2025 05:00:48.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> mal
+[24May2025 05:00:51.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> zime donde vive
+[24May2025 05:01:01.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> es que gta igual lo unico que safa hoy por hoy es hacer los golpes
+[24May2025 05:01:07.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> pero necesitamos 2 personas mas
+[24May2025 05:01:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :v
+[24May2025 05:01:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> acá
+[24May2025 05:01:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> recine hice uno con unos
+[24May2025 05:01:24.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> que tenian nombre chinos
+[24May2025 05:01:41.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> saque 100 lucas nomas
+[24May2025 05:01:58.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> te vai a hacer tu propia casa
+[24May2025 05:02:03.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> o vas a vivir en esta
+[24May2025 05:02:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> si
+[24May2025 05:02:05.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :v
+[24May2025 05:02:10.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> si se puede?
+[24May2025 05:02:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> :3
+[24May2025 05:02:15.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> creo que si
+[24May2025 05:02:20.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> xd
+[24May2025 05:02:22.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> que necesitas asi te busco
+[24May2025 05:02:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> na deja
+[24May2025 05:02:34.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> :,v
+[24May2025 05:02:34.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> deja que xime termine de hacerlo
+[24May2025 05:02:42.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> zime vive aca ?
+[24May2025 05:02:45.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ya no le gusto como le hice lo de madera
+[24May2025 05:02:47.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> si
+[24May2025 05:02:48.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :v
