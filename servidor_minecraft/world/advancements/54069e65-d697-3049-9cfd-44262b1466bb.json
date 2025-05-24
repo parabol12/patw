@@ -1330,6 +1330,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-05-24 04:26:33 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2025-05-24 03:43:39 +0000"
