@@ -1162,6 +1162,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2025-05-24 05:21:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-24 05:09:54 +0000"
