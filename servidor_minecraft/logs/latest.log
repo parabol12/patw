@@ -4060,3 +4060,39 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 04:00:12.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> xd
 [24May2025 04:00:34.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> yo te dejo
 [24May2025 04:00:36.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> buaajjajajaa
+[24May2025 04:02:25.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> uh mira el minimapa
+[24May2025 04:03:00.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ya termine
+[24May2025 04:03:01.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :p
+[24May2025 04:03:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> fua
+[24May2025 04:03:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> donde estara la casa xd
+[24May2025 04:03:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> alm
+[24May2025 04:03:53.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> mira
+[24May2025 04:04:08.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> una mazmorra
+[24May2025 04:04:20.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> eso te dije
+[24May2025 04:04:47.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> porque matas tan rapidio
+[24May2025 04:04:48.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> que tenes
+[24May2025 04:05:13.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> es el pico de draongs and fire
+[24May2025 04:05:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> diamante en un frsci
+[24May2025 04:05:17.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> frasco
+[24May2025 04:05:20.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> hace 26 de dañp xd
+[24May2025 04:05:22.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> y como conseguisate eso
+[24May2025 04:05:31.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> en un cofre
+[24May2025 04:05:36.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> hdp
+[24May2025 04:07:27.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Maja'/39795, l='ServerLevel[world]', x=-1714.16, y=76.00, z=4623.20] died, message: 'Maja was slain by zimee777'
+[24May2025 04:07:27.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Maja'/39795, l='ServerLevel[world]', x=-1714.16, y=76.00, z=4623.20] died: Maja was slain by zimee777
+[24May2025 04:07:41.900] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45178, l='ServerLevel[world]', x=-1832.50, y=70.00, z=4532.50]
+[24May2025 04:07:43.940] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1890, y=12, z=4370}
+[24May2025 04:07:43.940] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1889, y=12, z=4370}
+[24May2025 04:08:31.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> xaero-waypoint:Casa:C:-2680:67:4243:7:false:0:Internal-overworld-waypoints
+[24May2025 04:08:42.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Mine? Mine? Mine?]
+[24May2025 04:08:43.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ahi ta
+[24May2025 04:09:10.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> no veo
+[24May2025 04:09:16.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> comparti en el chat nena
+[24May2025 04:09:47.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47252, l='ServerLevel[world]', x=-1831.50, y=77.00, z=4571.50]
+[24May2025 04:10:48.986] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 04:10:49.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48252, l='ServerLevel[world]', x=-1826.50, y=76.00, z=4531.50]
+[24May2025 04:11:26.299] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2327, y=-20, z=4751}
+[24May2025 04:11:26.324] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2327, y=-20, z=4752}
+[24May2025 04:11:31.126] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2351, y=23, z=4749}
+[24May2025 04:11:59.411] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
+[24May2025 04:11:59.434] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
