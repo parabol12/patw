@@ -3906,3 +3906,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 03:20:15.693] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1615, y=47, z=4591}
 [24May2025 03:20:19.446] [Worker-Main-20/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1599, y=47, z=4604}
 [24May2025 03:21:17.466] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6eb4dd8d[id=<null>,name=d0ce3_,properties={},legacy=false] (/100.87.151.1:65412) lost connection: Disconnected
+[24May2025 03:21:25.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.87.151.1:65436] logged in with entity id 32829 at (-2677.188732485864, 67.0, 4239.564470227635)
+[24May2025 03:21:25.064] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to d0ce3_
+[24May2025 03:21:25.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to d0ce3_
+[24May2025 03:21:25.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to d0ce3_
+[24May2025 03:21:25.065] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to d0ce3_
+[24May2025 03:21:25.070] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to d0ce3_
+[24May2025 03:21:25.074] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to d0ce3_
+[24May2025 03:21:25.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to d0ce3_
+[24May2025 03:21:25.126] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player d0ce3_
+[24May2025 03:21:25.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[24May2025 03:21:25.183] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[24May2025 03:21:25.189] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[24May2025 03:21:25.195] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[24May2025 03:21:25.197] [Server thread/INFO] [Jade/]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[24May2025 03:22:35.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> tengo una mina aca
+[24May2025 03:22:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> por si quere
+[24May2025 03:23:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> sha voy
+[24May2025 03:25:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> para
+[24May2025 03:25:48.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> guardaste sethome?
+[24May2025 03:25:55.921] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[24May2025 03:25:55.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> noo :(
+[24May2025 03:25:55.945] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[24May2025 03:26:05.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> veni
+[24May2025 03:26:07.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> veeeeeeeni
+[24May2025 03:26:20.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> cuidado
+[24May2025 03:26:22.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> cripe
+[24May2025 03:26:31.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> o mori y revivi
+[24May2025 03:26:37.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> hace sethome
+[24May2025 03:26:39.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> uh
+[24May2025 03:26:40.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> bueno
+[24May2025 03:26:46.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was blown up by Creeper
+[24May2025 03:26:48.201] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[24May2025 03:26:48.201] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[24May2025 03:26:48.201] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[24May2025 03:26:48.201] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[24May2025 03:26:53.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> no estoy n casa
+[24May2025 03:26:55.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> xd
+[24May2025 03:27:11.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> no dormiste en la cama no?
+[24May2025 03:27:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> no
+[24May2025 03:27:21.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> aceptaaa
+[24May2025 03:27:25.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> dio mio
+[24May2025 03:29:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> xd
+[24May2025 03:29:18.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> veni
+[24May2025 03:29:21.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> venite acaaaa
+[24May2025 03:29:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> uy donde
+[24May2025 03:29:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> eto noma
+[24May2025 03:29:56.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> xd
+[24May2025 03:30:46.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> aca gfrande
+[24May2025 03:30:58.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> e?
