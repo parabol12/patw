@@ -1259,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-24 02:56:21 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/obsidian_slab": {
     "criteria": {
       "has_obsidian": "2025-05-24 02:18:49 +0000"
