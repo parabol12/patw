@@ -686,6 +686,7 @@
       "minecraft:birch_forest": "2025-05-23 06:19:01 +0000",
       "minecraft:beach": "2025-05-23 06:36:26 +0000",
       "minecraft:river": "2025-05-23 06:06:42 +0000",
+      "minecraft:forest": "2025-05-24 05:27:44 +0000",
       "autumnity:autumnity:maple_forest": "2025-05-24 05:07:41 +0000",
       "minecraft:desert": "2025-05-23 05:59:12 +0000",
       "minecraft:ocean": "2025-05-23 06:36:09 +0000",
@@ -1168,6 +1169,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-05-24 05:29:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-05-24 05:09:54 +0000"
@@ -1183,6 +1190,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-05-24 05:09:46 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2025-05-24 05:29:16 +0000"
     },
     "done": true
   },

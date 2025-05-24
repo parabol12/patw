@@ -4463,3 +4463,67 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 05:21:42.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> toma te sirve
 [24May2025 05:21:53.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> grax
 [24May2025 05:21:55.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :3
+[24May2025 05:23:23.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> que
+[24May2025 05:24:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> este lunes no es feriado
+[24May2025 05:24:42.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> o si?
+[24May2025 05:24:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> ni idea
+[24May2025 05:26:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> consegui lava si podes
+[24May2025 05:26:40.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> despues
+[24May2025 05:26:58.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> voy
+[24May2025 05:28:14.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> juan tenemos un vecino
+[24May2025 05:28:19.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> lo matamos?
+[24May2025 05:28:36.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> donde
+[24May2025 05:28:50.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> ah
+[24May2025 05:28:59.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> cuidado que te agarra y te hace bosta
+[24May2025 05:29:14.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has completed the challenge [Centennial]
+[24May2025 05:29:24.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:59298] logged in with entity id 77974 at (-2680.168573546974, 67.0, 4225.023849624461)
+[24May2025 05:29:24.716] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[24May2025 05:29:24.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[24May2025 05:29:24.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[24May2025 05:29:24.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[24May2025 05:29:24.719] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[24May2025 05:29:24.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[24May2025 05:29:24.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[24May2025 05:29:24.749] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[24May2025 05:29:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[24May2025 05:29:24.790] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[24May2025 05:29:24.797] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[24May2025 05:29:25.101] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[24May2025 05:29:25.181] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[24May2025 05:29:25.267] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[24May2025 05:29:52.914] [Server thread/WARN] [tombstone/]: The death event of the player TheFernet was canceled by another mod
+[24May2025 05:29:52.939] [Server thread/INFO] [tombstone/]: The player TheFernet has successfully been saved
+[24May2025 05:29:54.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> XD
+[24May2025 05:29:57.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> te dije
+[24May2025 05:29:57.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[24May2025 05:29:59.512] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
+[24May2025 05:29:59.535] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[24May2025 05:30:02.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> hfp
+[24May2025 05:30:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> lo desbugueaste
+[24May2025 05:30:07.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> pone home
+[24May2025 05:30:09.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/78210, l='ServerLevel[world]', x=-2593.50, y=74.00, z=4392.50]
+[24May2025 05:30:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> dios santo
+[24May2025 05:30:29.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> gracias :3
+[24May2025 05:30:32.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> :v
+[24May2025 05:30:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> gracias
+[24May2025 05:30:45.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> no estan en discord?
+[24May2025 05:30:51.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> nu
+[24May2025 05:31:09.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> taba re grasoso el chancho che
+[24May2025 05:31:12.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> me cayo mal xd
+[24May2025 05:31:28.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> abue
+[24May2025 05:31:43.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> Mucha grasa
+[24May2025 05:31:50.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> y no le habran sacado nada
+[24May2025 05:32:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> lo mandan siempre directo al horno
+[24May2025 05:32:08.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> tenes flecha?
+[24May2025 05:32:13.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> se desgraso una banda igual
+[24May2025 05:32:22.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <TheFernet> gracias
+[24May2025 05:32:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> te gusta asi la madera
+[24May2025 05:32:37.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> :,v
+[24May2025 05:32:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> y...
+[24May2025 05:32:51.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> para mi sada
+[24May2025 05:32:51.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [Take Aim]
+[24May2025 05:32:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> safa
+[24May2025 05:32:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> tengo una idea
+[24May2025 05:32:57.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> >;v
+[24May2025 05:33:08.448] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/78897, l='ServerLevel[world]', x=-2599.50, y=70.00, z=4404.50]
+[24May2025 05:33:10.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/78904, l='ServerLevel[world]', x=-2530.50, y=70.00, z=4327.50]

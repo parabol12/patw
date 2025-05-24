@@ -1263,15 +1263,9 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/granite": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "has_planks": "2025-05-24 03:24:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-24 02:56:21 +0000"
+      "coded_trigger": "2025-05-24 02:09:18 +0000"
     },
     "done": true
   },
@@ -1281,15 +1275,21 @@
     },
     "done": true
   },
-  "betterarcheology:loot_vase_broken": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "criteria": "2025-05-24 03:18:54 +0000"
+      "obsidian": "2025-05-24 02:18:49 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/calcite_slab": {
+  "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
-      "has_calcite": "2025-05-24 03:40:24 +0000"
+      "bestiary": "2025-05-24 02:33:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-24 02:56:21 +0000"
     },
     "done": true
   },
@@ -1299,21 +1299,21 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-05-24 02:59:29 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-24 03:08:19 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/diorite": {
+  "betterarcheology:loot_vase_broken": {
     "criteria": {
-      "has_planks": "2025-05-24 04:00:52 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-05-24 02:09:18 +0000"
+      "criteria": "2025-05-24 03:18:54 +0000"
     },
     "done": true
   },
@@ -1323,27 +1323,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:24:36 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-05-24 03:40:24 +0000"
+    },
+    "done": true
+  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-05-24 03:50:47 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "mcwroofs:recipes/diorite": {
     "criteria": {
-      "obsidian": "2025-05-24 02:18:49 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/concrete": {
-    "criteria": {
-      "has_planks": "2025-05-24 02:59:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/gorgon_head": {
-    "criteria": {
-      "bestiary": "2025-05-24 02:33:47 +0000"
+      "has_planks": "2025-05-24 04:00:52 +0000"
     },
     "done": true
   },
