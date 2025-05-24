@@ -767,6 +767,8 @@
       "rocky_shrubland": "2025-05-23 05:57:51 +0000",
       "maple_woods": "2025-05-23 06:03:40 +0000",
       "orchard": "2025-05-23 06:47:44 +0000",
+      "redwood_forest": "2025-05-24 03:05:38 +0000",
+      "dune_beach": "2025-05-24 03:00:44 +0000",
       "grassland": "2025-05-23 21:23:20 +0000",
       "prairie": "2025-05-24 02:40:57 +0000",
       "gravel_beach": "2025-05-23 06:30:52 +0000"
@@ -1271,6 +1273,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 02:59:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 03:08:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-24 02:09:18 +0000"
@@ -1280,6 +1294,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-24 02:18:49 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-05-24 02:59:29 +0000"
     },
     "done": true
   },
