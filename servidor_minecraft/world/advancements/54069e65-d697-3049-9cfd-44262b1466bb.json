@@ -1010,7 +1010,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "sky": "2025-05-23 06:42:31 +0000"
+      "sky": "2025-05-23 06:42:31 +0000",
+      "earth": "2025-05-24 07:34:02 +0000"
     },
     "done": false
   },
@@ -1449,6 +1450,12 @@
     },
     "done": false
   },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-05-24 07:39:01 +0000"
+    },
+    "done": true
+  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-05-24 07:00:10 +0000"
@@ -1479,6 +1486,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-05-24 07:32:35 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone_bricks": {
     "criteria": {
       "has_planks": "2025-05-24 07:03:18 +0000"
@@ -1491,9 +1504,21 @@
     },
     "done": true
   },
+  "aether:obsidian_armor": {
+    "criteria": {
+      "obsidian_helmet": "2025-05-24 07:32:01 +0000"
+    },
+    "done": false
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-05-24 07:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2025-05-24 07:39:19 +0000"
     },
     "done": true
   },

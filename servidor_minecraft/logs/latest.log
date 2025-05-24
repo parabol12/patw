@@ -3536,3 +3536,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 07:30:32.231] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3074, y=-21, z=4388}
 [24May2025 07:31:03.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Funeral Theft]
 [24May2025 07:31:14.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Hunt and Gather]
+[24May2025 07:36:54.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[24May2025 07:36:54.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[24May2025 07:40:51.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[24May2025 07:40:51.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[24May2025 07:40:51.256] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[24May2025 07:41:09.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24May2025 07:41:09.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24May2025 07:41:09.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24May2025 07:41:09.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24May2025 07:41:09.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24May2025 07:41:10.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[24May2025 07:41:10.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[24May2025 07:41:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[24May2025 07:41:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24May2025 07:41:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[24May2025 07:41:10.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[24May2025 07:41:10.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24May2025 07:41:10.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24May2025 07:41:10.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24May2025 07:41:10.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24May2025 07:41:10.201] [Server thread/INFO] [Framework/]: Unloading server configs...
+[24May2025 07:41:10.202] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[24May2025 07:41:10.205] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[24May2025 07:41:10.376] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
