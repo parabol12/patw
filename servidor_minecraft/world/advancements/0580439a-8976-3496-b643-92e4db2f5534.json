@@ -1359,6 +1359,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
+    "criteria": {
+      "has_black_stained_glass": "2025-05-24 06:49:47 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-05-24 06:40:11 +0000"
