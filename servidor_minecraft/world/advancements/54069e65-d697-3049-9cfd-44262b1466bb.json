@@ -683,6 +683,7 @@
       "rocky_shrubland": "2025-05-23 05:56:51 +0000",
       "maple_woods": "2025-05-23 05:52:53 +0000",
       "orchard": "2025-05-23 06:48:05 +0000",
+      "dune_beach": "2025-05-24 03:30:20 +0000",
       "lavender_field": "2025-05-24 03:24:28 +0000"
     },
     "done": false
@@ -1277,6 +1278,42 @@
   "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
     "criteria": {
       "has_redstone_block": "2025-05-24 02:36:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:34:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-05-24 03:33:01 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2025-05-24 03:34:31 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-05-24 03:32:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-05-24 03:33:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-05-24 03:33:01 +0000"
     },
     "done": true
   },
