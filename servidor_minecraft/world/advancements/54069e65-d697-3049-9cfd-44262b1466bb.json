@@ -1582,6 +1582,15 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-05-25 06:22:31 +0000",
+      "twilight_oak_log": "2025-05-25 06:21:32 +0000",
+      "twilight_oak_sapling": "2025-05-25 06:21:32 +0000",
+      "canopy_log": "2025-05-25 06:22:30 +0000"
+    },
+    "done": false
+  },
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_01": "2025-05-25 06:02:00 +0000"
@@ -1615,6 +1624,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-25 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-05-25 06:20:36 +0000"
     },
     "done": true
   },

@@ -1222,6 +1222,13 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-05-25 06:22:26 +0000",
+      "canopy_log": "2025-05-25 06:22:25 +0000"
+    },
+    "done": false
+  },
   "new_slab_variants:recipes/building_blocks/obsidian_slab": {
     "criteria": {
       "has_obsidian": "2025-05-25 06:05:24 +0000"
@@ -1255,6 +1262,12 @@
   "mcwroofs:recipes/thatch": {
     "criteria": {
       "has_planks": "2025-05-25 06:06:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-05-25 06:20:44 +0000"
     },
     "done": true
   },
