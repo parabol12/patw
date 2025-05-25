@@ -3,10 +3,9 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "twilightforest:twilight_forest", x: -21018, y: -4, z: 34564, time: 1748155846412L, xRot: 3.531235f, yRot: 258.14172f }
+	last_seen: { dim: "minecraft:overworld", x: -2662, y: 67, z: 4230, time: 1748156304435L, xRot: 16.950464f, yRot: 38.22101f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -2668, y: 67, z: 4229, time: 1748068156781L }
 		{ dim: "minecraft:overworld", x: -2723, y: 71, z: 3942, time: 1748070913619L, xRot: 2.7011046f, yRot: -38.909725f }
 		{ dim: "minecraft:overworld", x: -2819, y: 64, z: 4242, time: 1748070973014L, xRot: 2.7000055f, yRot: -172.92714f }
 		{ dim: "minecraft:overworld", x: -2590, y: 57, z: 4244, time: 1748071220890L, xRot: -1.406749f, yRot: 78.925f }
@@ -16,6 +15,7 @@
 		{ dim: "minecraft:overworld", x: -3087, y: 60, z: 4402, time: 1748153225552L, xRot: 38.78173f, yRot: -110.05489f }
 		{ dim: "twilightforest:twilight_forest", x: -21420, y: 5, z: 34417, time: 1748154427249L, xRot: 22.350124f, yRot: 157.19588f }
 		{ dim: "twilightforest:twilight_forest", x: -21242, y: 19, z: 34519, time: 1748154829157L, xRot: 18.311026f, yRot: -135.41017f }
+		{ dim: "twilightforest:twilight_forest", x: -21010, y: -4, z: 34567, time: 1748156113592L, xRot: 24.831196f, yRot: 163.34167f }
 	]
 	homes: {
 		casa: { dim: "minecraft:overworld", x: -2662, y: 67, z: 4232, time: 1748067995532L, xRot: 19.593363f, yRot: 129.32307f }
