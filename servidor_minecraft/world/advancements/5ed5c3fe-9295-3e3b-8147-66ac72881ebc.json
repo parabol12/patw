@@ -761,6 +761,7 @@
       "cooked_beef": "2025-05-23 06:15:34 +0000",
       "sweet_berries": "2025-05-23 06:07:09 +0000",
       "potato": "2025-05-23 06:10:21 +0000",
+      "cooked_cod": "2025-05-25 06:33:06 +0000",
       "bread": "2025-05-23 06:04:26 +0000",
       "melon_slice": "2025-05-24 05:09:05 +0000",
       "carrot": "2025-05-25 05:48:44 +0000"
@@ -1216,6 +1217,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-05-25 06:24:20 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/jacaranda_roofs": {
     "criteria": {
       "has_planks": "2025-05-25 06:02:06 +0000"
@@ -1225,6 +1232,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "canopy_sapling": "2025-05-25 06:22:26 +0000",
+      "canopy_fence": "2025-05-25 06:30:03 +0000",
       "canopy_log": "2025-05-25 06:22:25 +0000"
     },
     "done": false
@@ -1241,15 +1249,33 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-05-25 06:28:39 +0000"
+    },
+    "done": false
+  },
   "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
       "loot_simple_dungeon": "2025-05-25 06:06:49 +0000"
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_brown_wool": "2025-05-25 06:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-05-25 06:05:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-05-25 06:28:39 +0000"
     },
     "done": true
   },

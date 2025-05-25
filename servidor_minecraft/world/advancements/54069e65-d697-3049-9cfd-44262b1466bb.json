@@ -1576,6 +1576,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "yeti": "2025-05-25 06:24:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-05-25 06:12:31 +0000"
@@ -1584,7 +1590,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "canopy_chest": "2025-05-25 06:29:01 +0000",
       "canopy_sapling": "2025-05-25 06:22:31 +0000",
+      "canopy_fence": "2025-05-25 06:30:06 +0000",
       "twilight_oak_log": "2025-05-25 06:21:32 +0000",
       "twilight_oak_sapling": "2025-05-25 06:21:32 +0000",
       "canopy_log": "2025-05-25 06:22:30 +0000"
@@ -1609,6 +1617,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2025-05-25 06:28:39 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2025-05-25 05:48:48 +0000"
@@ -1624,6 +1638,18 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-25 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-25 06:30:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2025-05-25 06:28:39 +0000"
     },
     "done": true
   },

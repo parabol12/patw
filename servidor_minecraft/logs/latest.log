@@ -4216,3 +4216,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25May2025 06:24:20.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [The Silence of the Forest]
 [25May2025 06:24:26.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [The Silence of the Forest]
 [25May2025 06:26:20.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4647ms or 92 ticks behind
+[25May2025 06:28:39.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has reached the goal [Time To Even The Scales]
+[25May2025 06:28:39.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has reached the goal [Time To Even The Scales]
+[25May2025 06:30:18.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Spooky Scary Skeleton]
+[25May2025 06:30:40.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[25May2025 06:30:40.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[25May2025 06:30:40.387] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 06:32:56.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:62098] logged in with entity id 38942 at (-21244.610465318747, 6.176759275064237, 34531.56186273271)
+[25May2025 06:32:56.322] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[25May2025 06:32:56.322] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[25May2025 06:32:56.322] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[25May2025 06:32:56.323] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[25May2025 06:32:56.324] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[25May2025 06:32:56.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[25May2025 06:32:56.325] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[25May2025 06:32:56.351] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[25May2025 06:32:56.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[25May2025 06:32:56.376] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[25May2025 06:32:56.382] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[25May2025 06:32:56.563] [ForkJoinPool-4-worker-12/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 06:32:56.660] [ForkJoinPool-4-worker-12/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 06:32:56.752] [ForkJoinPool-4-worker-12/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 06:35:04.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [The Boots Are Mine!]
+[25May2025 06:35:14.534] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[25May2025 06:35:14.559] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[25May2025 06:35:39.531] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[25May2025 06:35:39.552] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[25May2025 06:35:48.335] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
+[25May2025 06:35:48.357] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[25May2025 06:36:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet has made the advancement [The Boots Are Mine!]
+[25May2025 06:36:33.132] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[25May2025 06:36:33.157] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[25May2025 06:37:04.039] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[25May2025 06:37:04.062] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved

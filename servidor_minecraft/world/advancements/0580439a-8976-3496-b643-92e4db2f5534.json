@@ -1470,18 +1470,21 @@
     },
     "done": true
   },
-  "twilightforest:arborist": {
-    "criteria": {
-      "canopy_sapling": "2025-05-25 06:22:27 +0000",
-      "canopy_log": "2025-05-25 06:22:27 +0000"
-    },
-    "done": false
-  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-05-25 06:20:44 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2025-05-25 06:22:27 +0000",
+      "twilight_oak_log": "2025-05-25 06:32:56 +0000",
+      "twilight_oak_wood": "2025-05-25 06:32:56 +0000",
+      "twilight_oak_sapling": "2025-05-25 06:32:56 +0000",
+      "canopy_log": "2025-05-25 06:22:27 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
