@@ -1361,33 +1361,21 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_skillet": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "skillet": "2025-05-24 06:55:46 +0000"
+      "killed_by": "2025-05-24 06:25:54 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
+  "new_slab_variants:recipes/building_blocks/glass_slab": {
     "criteria": {
-      "has_black_stained_glass": "2025-05-24 06:49:47 +0000"
+      "has_glass": "2025-05-24 06:31:01 +0000"
     },
     "done": true
-  },
-  "tconstruct:world/slime_collector": {
-    "criteria": {
-      "earth": "2025-05-24 07:10:45 +0000"
-    },
-    "done": false
   },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-05-24 06:40:11 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-05-24 06:25:54 +0000"
     },
     "done": true
   },
@@ -1397,11 +1385,23 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/glass_slab": {
+  "new_slab_variants:recipes/building_blocks/black_stained_glass_slab": {
     "criteria": {
-      "has_glass": "2025-05-24 06:31:01 +0000"
+      "has_black_stained_glass": "2025-05-24 06:49:47 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-05-24 06:55:46 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "earth": "2025-05-24 07:10:45 +0000"
+    },
+    "done": false
   },
   "aether:obsidian_armor": {
     "criteria": {
@@ -1412,6 +1412,12 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-05-24 07:31:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 05:11:49 +0000"
     },
     "done": true
   },
