@@ -699,9 +699,13 @@
     "criteria": {
       "shrubland": "2025-05-23 06:19:45 +0000",
       "rocky_shrubland": "2025-05-23 06:00:18 +0000",
+      "highland": "2025-05-25 06:01:45 +0000",
+      "jacaranda_glade": "2025-05-25 06:02:21 +0000",
       "maple_woods": "2025-05-23 06:03:46 +0000",
       "orchard": "2025-05-23 06:47:28 +0000",
+      "dune_beach": "2025-05-25 06:03:54 +0000",
       "pasture": "2025-05-24 05:11:03 +0000",
+      "lavender_field": "2025-05-25 06:01:39 +0000",
       "prairie": "2025-05-24 05:04:30 +0000",
       "gravel_beach": "2025-05-23 06:33:27 +0000"
     },
@@ -1203,6 +1207,54 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-24 05:32:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-25 05:54:53 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_roofs": {
+    "criteria": {
+      "has_planks": "2025-05-25 06:02:06 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2025-05-25 06:05:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-25 06:05:23 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-05-25 06:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-25 06:05:24 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-05-25 06:04:08 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/thatch": {
+    "criteria": {
+      "has_planks": "2025-05-25 06:06:50 +0000"
     },
     "done": true
   },

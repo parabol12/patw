@@ -637,12 +637,14 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2025-05-25 06:03:20 +0000",
       "marsh": "2025-05-23 05:50:12 +0000",
       "willow_forest": "2025-05-23 07:10:45 +0000",
       "grassy_beach": "2025-05-23 06:42:58 +0000",
       "scorching_caves": "2025-05-23 07:27:48 +0000",
       "blackwood_taiga": "2025-05-23 07:09:38 +0000",
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
+      "highland_fields": "2025-05-25 06:06:43 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "towering_cliffs": "2025-05-24 02:14:13 +0000",
       "temperate_grove": "2025-05-24 02:30:54 +0000",
@@ -653,11 +655,13 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2025-05-25 06:03:20 +0000",
       "marsh": "2025-05-23 05:50:12 +0000",
       "willow_forest": "2025-05-23 07:10:45 +0000",
       "grassy_beach": "2025-05-23 06:42:58 +0000",
       "blackwood_taiga": "2025-05-23 07:09:38 +0000",
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
+      "highland_fields": "2025-05-25 06:06:43 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
       "towering_cliffs": "2025-05-24 02:14:13 +0000",
       "temperate_grove": "2025-05-24 02:30:54 +0000",
@@ -807,6 +811,7 @@
       "minecraft:sunflower_plains": "2025-05-24 05:14:57 +0000",
       "minecraft:birch_forest": "2025-05-23 06:18:48 +0000",
       "minecraft:beach": "2025-05-23 06:39:56 +0000",
+      "minecraft:dark_forest": "2025-05-25 06:04:23 +0000",
       "minecraft:river": "2025-05-23 05:56:29 +0000",
       "minecraft:forest": "2025-05-24 02:38:48 +0000",
       "autumnity:autumnity:maple_forest": "2025-05-23 06:56:13 +0000",
@@ -814,7 +819,8 @@
       "minecraft:windswept_savanna": "2025-05-24 02:31:03 +0000",
       "minecraft:flower_forest": "2025-05-24 05:15:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-23 06:17:27 +0000",
-      "minecraft:plains": "2025-05-24 02:39:06 +0000"
+      "minecraft:plains": "2025-05-24 02:39:06 +0000",
+      "autumnity:autumnity:pumpkin_fields": "2025-05-25 06:01:28 +0000"
     },
     "done": false
   },
@@ -1570,6 +1576,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 06:12:31 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-25 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 06:12:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-05-25 05:48:43 +0000"
@@ -1579,6 +1603,12 @@
   "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
       "tame_rat": "2025-05-25 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-25 06:06:56 +0000"
     },
     "done": true
   },

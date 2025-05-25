@@ -766,6 +766,7 @@
     "criteria": {
       "shrubland": "2025-05-23 06:19:06 +0000",
       "rocky_shrubland": "2025-05-23 05:57:51 +0000",
+      "jacaranda_glade": "2025-05-25 06:05:39 +0000",
       "maple_woods": "2025-05-23 06:03:40 +0000",
       "orchard": "2025-05-23 06:47:44 +0000",
       "redwood_forest": "2025-05-24 03:05:38 +0000",
@@ -1433,15 +1434,21 @@
     },
     "done": true
   },
-  "mca:baby": {
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
-      "baby": "2025-05-25 05:45:03 +0000"
+      "has_iron_block": "2025-05-25 05:31:22 +0000"
     },
     "done": true
   },
   "mca:friend": {
     "criteria": {
       "baby": "2025-05-25 05:33:40 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/emerald_block_slab": {
+    "criteria": {
+      "has_emerald_block": "2025-05-25 05:35:35 +0000"
     },
     "done": true
   },
@@ -1457,15 +1464,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/emerald_block_slab": {
+  "mca:baby": {
     "criteria": {
-      "has_emerald_block": "2025-05-25 05:35:35 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
-    "criteria": {
-      "has_iron_block": "2025-05-25 05:31:22 +0000"
+      "baby": "2025-05-25 05:45:03 +0000"
     },
     "done": true
   },
