@@ -1540,9 +1540,27 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-05-25 01:09:26 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/oak_log_slab": {
     "criteria": {
       "has_oak_log": "2025-05-25 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-05-25 01:05:47 +0000"
+    },
+    "done": false
+  },
+  "new_slab_variants:recipes/building_blocks/birch_log_slab": {
+    "criteria": {
+      "has_birch_log": "2025-05-25 01:09:26 +0000"
     },
     "done": true
   },
