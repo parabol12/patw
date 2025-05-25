@@ -759,10 +759,13 @@
     "criteria": {
       "cooked_porkchop": "2025-05-23 07:26:55 +0000",
       "cooked_beef": "2025-05-23 06:15:34 +0000",
+      "baked_potato": "2025-05-25 06:36:52 +0000",
+      "cooked_chicken": "2025-05-25 06:35:55 +0000",
       "sweet_berries": "2025-05-23 06:07:09 +0000",
       "potato": "2025-05-23 06:10:21 +0000",
       "cooked_cod": "2025-05-25 06:33:06 +0000",
       "bread": "2025-05-23 06:04:26 +0000",
+      "golden_apple": "2025-05-25 06:34:52 +0000",
       "melon_slice": "2025-05-24 05:09:05 +0000",
       "carrot": "2025-05-25 05:48:44 +0000"
     },
@@ -1255,6 +1258,12 @@
     },
     "done": false
   },
+  "new_slab_variants:recipes/building_blocks/raw_iron_block_slab": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-25 06:37:55 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
       "loot_simple_dungeon": "2025-05-25 06:06:49 +0000"
@@ -1294,6 +1303,12 @@
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-05-25 06:20:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-05-25 06:36:17 +0000"
     },
     "done": true
   },
