@@ -1540,5 +1540,17 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/oak_log_slab": {
+    "criteria": {
+      "has_oak_log": "2025-05-25 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-05-25 01:01:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
