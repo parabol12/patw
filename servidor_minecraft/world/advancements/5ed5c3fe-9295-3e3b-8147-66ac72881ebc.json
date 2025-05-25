@@ -758,7 +758,8 @@
       "sweet_berries": "2025-05-23 06:07:09 +0000",
       "potato": "2025-05-23 06:10:21 +0000",
       "bread": "2025-05-23 06:04:26 +0000",
-      "melon_slice": "2025-05-24 05:09:05 +0000"
+      "melon_slice": "2025-05-24 05:09:05 +0000",
+      "carrot": "2025-05-25 05:48:44 +0000"
     },
     "done": false
   },
@@ -1157,36 +1158,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-05-24 05:12:12 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
-    "criteria": {
-      "has_gold_block": "2025-05-24 05:21:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-24 05:32:51 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
-    "criteria": {
-      "has_white_wool": "2025-05-24 05:29:16 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-05-24 05:09:54 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2025-05-24 05:09:46 +0000"
@@ -1199,9 +1170,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 05:09:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-24 05:12:12 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2025-05-24 05:21:28 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/white_wool_slab": {
+    "criteria": {
+      "has_white_wool": "2025-05-24 05:29:16 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-05-24 05:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-24 05:32:51 +0000"
     },
     "done": true
   },

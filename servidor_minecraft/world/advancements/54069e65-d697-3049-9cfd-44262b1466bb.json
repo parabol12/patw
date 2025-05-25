@@ -1540,15 +1540,15 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-05-25 01:09:26 +0000"
-    },
-    "done": true
-  },
   "new_slab_variants:recipes/building_blocks/oak_log_slab": {
     "criteria": {
       "has_oak_log": "2025-05-25 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-05-25 01:01:47 +0000"
     },
     "done": true
   },
@@ -1558,15 +1558,33 @@
     },
     "done": false
   },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-05-25 01:09:26 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/birch_log_slab": {
     "criteria": {
       "has_birch_log": "2025-05-25 01:09:26 +0000"
     },
     "done": true
   },
-  "mcwroofs:recipes/oak": {
+  "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "has_planks": "2025-05-25 01:01:47 +0000"
+      "bestiary": "2025-05-25 05:48:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-05-25 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-25 05:48:48 +0000"
     },
     "done": true
   },
