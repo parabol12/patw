@@ -4293,3 +4293,22 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [25May2025 06:47:21.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
 [25May2025 06:47:21.783] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [25May2025 06:47:57.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
+[25May2025 06:49:33.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheFernet lost connection: Disconnected
+[25May2025 06:49:33.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheFernet left the game
+[25May2025 06:49:33.692] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player TheFernet[5ed5c3fe-9295-3e3b-8147-66ac72881ebc]
+[25May2025 06:50:46.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:57737] logged in with entity id 49023 at (-21017.5, -4.0, 34564.5)
+[25May2025 06:50:46.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[25May2025 06:50:46.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[25May2025 06:50:46.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[25May2025 06:50:46.373] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[25May2025 06:50:46.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[25May2025 06:50:46.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[25May2025 06:50:46.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[25May2025 06:50:46.402] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[25May2025 06:50:46.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[25May2025 06:50:46.418] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[25May2025 06:50:46.421] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[25May2025 06:50:46.626] [ForkJoinPool-4-worker-15/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 06:50:46.717] [ForkJoinPool-4-worker-15/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 06:50:46.807] [ForkJoinPool-4-worker-15/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 06:55:18.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
