@@ -32,3 +32,33 @@
 [25May2025 01:11:36.530] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69c3134c[id=<null>,name=TheFernet,properties={},legacy=false] (/100.100.69.57:60874) lost connection: Disconnected
 [25May2025 01:15:34.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5941ec6d[id=<null>,name=TheFernet,properties={},legacy=false] (/100.100.69.57:61291) lost connection: Timed out
 [25May2025 01:17:25.431] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@626857ca[id=<null>,name=TheFernet,properties={},legacy=false] (/100.100.69.57:61302) lost connection: Timed out
+[25May2025 01:46:56.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: d0ce3_ lost connection: Disconnected
+[25May2025 01:46:56.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ left the game
+[25May2025 01:46:56.137] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[25May2025 01:47:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25May2025 01:47:02.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25May2025 01:47:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25May2025 01:47:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25May2025 01:47:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25May2025 01:47:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[25May2025 01:47:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[25May2025 01:47:02.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25May2025 01:47:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[25May2025 01:47:02.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[25May2025 01:47:02.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[25May2025 01:47:02.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25May2025 01:47:02.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[25May2025 01:47:02.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25May2025 01:47:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[25May2025 01:47:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[25May2025 01:47:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25May2025 01:47:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[25May2025 01:47:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[25May2025 01:47:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[25May2025 01:47:02.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25May2025 01:47:02.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[25May2025 01:47:02.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25May2025 01:47:02.947] [Server thread/INFO] [Framework/]: Unloading server configs...
+[25May2025 01:47:02.948] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[25May2025 01:47:02.950] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[25May2025 01:47:03.098] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
