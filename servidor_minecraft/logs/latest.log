@@ -3549,3 +3549,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 05:16:42.781] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [25May2025 05:16:42.888] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [25May2025 05:16:42.993] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 05:17:49.782] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[25May2025 05:17:49.782] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[25May2025 05:17:49.783] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[25May2025 05:17:49.783] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[25May2025 05:21:51.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [The Most Useful Key]
+[25May2025 05:21:58.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has reached the goal [A Fast Comeback]
+[25May2025 05:22:25.962] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3027, y=31, z=3699}
+[25May2025 05:22:25.962] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3028, y=31, z=3699}
+[25May2025 05:22:25.962] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3028, y=31, z=3699}
+[25May2025 05:22:25.962] [Worker-Main-90/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3027, y=31, z=3699}
+[25May2025 05:22:25.963] [Worker-Main-90/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-3027, 31, 3699)
+[25May2025 05:22:27.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3294, y=59, z=3712} but found not block entity block Block{minecraft:air} at location
+[25May2025 05:22:27.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3294, y=59, z=3712}
+[25May2025 05:22:27.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3296, y=59, z=3712} but found not block entity block Block{minecraft:air} at location
+[25May2025 05:22:27.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3296, y=59, z=3712}
+[25May2025 05:22:27.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3282, y=59, z=3712} but found not block entity block Block{minecraft:air} at location
+[25May2025 05:22:27.116] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3282, y=59, z=3712}
+[25May2025 05:22:40.504] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3280, y=59, z=3710} but found not block entity block Block{minecraft:air} at location
+[25May2025 05:22:40.504] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-3280, y=59, z=3710}
+[25May2025 05:22:41.893] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[25May2025 05:26:56.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[25May2025 05:26:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[25May2025 05:28:02.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:56659] logged in with entity id 7837 at (-2660.9569368054536, 67.5625, 4229.000166738263)
+[25May2025 05:28:02.839] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[25May2025 05:28:02.839] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[25May2025 05:28:02.839] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[25May2025 05:28:02.839] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[25May2025 05:28:02.841] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[25May2025 05:28:02.842] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[25May2025 05:28:02.843] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[25May2025 05:28:02.874] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[25May2025 05:28:02.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[25May2025 05:28:02.891] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[25May2025 05:28:02.896] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[25May2025 05:28:03.796] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 05:28:03.948] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 05:28:04.047] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 05:29:00.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[25May2025 05:29:00.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[25May2025 05:29:00.951] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 05:29:36.116] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:57006] logged in with entity id 8283 at (-2660.9569368054536, 67.5625, 4229.000166738263)
+[25May2025 05:29:36.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[25May2025 05:29:36.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[25May2025 05:29:36.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[25May2025 05:29:36.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[25May2025 05:29:36.126] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[25May2025 05:29:36.128] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[25May2025 05:29:36.128] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[25May2025 05:29:36.161] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[25May2025 05:29:36.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[25May2025 05:29:36.183] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[25May2025 05:29:36.189] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[25May2025 05:29:36.273] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 05:29:36.400] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 05:29:36.502] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[25May2025 05:33:40.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Friendship Found]
