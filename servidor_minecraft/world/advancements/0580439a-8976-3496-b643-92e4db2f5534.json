@@ -1486,5 +1486,23 @@
     },
     "done": false
   },
+  "new_slab_variants:recipes/building_blocks/cyan_wool_slab": {
+    "criteria": {
+      "has_cyan_wool": "2025-05-26 05:54:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "bighorn_sheep": "2025-05-26 05:52:49 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_brown_wool": "2025-05-26 05:52:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
