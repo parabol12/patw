@@ -3506,3 +3506,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26May2025 05:51:41.889] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [26May2025 05:51:42.006] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [26May2025 05:52:49.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [The Silence of the Forest]
+[26May2025 06:16:34.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[26May2025 06:16:34.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[26May2025 06:16:34.497] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26May2025 06:16:52.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:55883] logged in with entity id 93410 at (-2659.806546024997, 67.0, 4226.737321401723)
+[26May2025 06:16:52.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[26May2025 06:16:52.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[26May2025 06:16:52.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[26May2025 06:16:52.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[26May2025 06:16:52.034] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[26May2025 06:16:52.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[26May2025 06:16:52.036] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[26May2025 06:16:52.067] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[26May2025 06:16:52.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[26May2025 06:16:52.088] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[26May2025 06:16:52.095] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[26May2025 06:16:52.360] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[26May2025 06:16:52.466] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[26May2025 06:16:52.572] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[26May2025 06:23:35.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[26May2025 06:23:35.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[26May2025 06:23:48.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:56427] logged in with entity id 94745 at (-2688.493012727958, 66.25220334025373, 4249.394471919542)
+[26May2025 06:23:48.744] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[26May2025 06:23:48.744] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[26May2025 06:23:48.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[26May2025 06:23:48.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[26May2025 06:23:48.746] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[26May2025 06:23:48.749] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[26May2025 06:23:48.749] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[26May2025 06:23:48.780] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[26May2025 06:23:48.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[26May2025 06:23:48.799] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[26May2025 06:23:48.803] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[26May2025 06:23:49.026] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[26May2025 06:23:49.119] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[26May2025 06:23:49.275] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[26May2025 06:24:46.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
+[26May2025 06:24:46.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[26May2025 06:24:46.924] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
