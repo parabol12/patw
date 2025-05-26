@@ -3544,3 +3544,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [26May2025 06:24:46.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
 [26May2025 06:24:46.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
 [26May2025 06:24:46.924] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26May2025 07:13:20.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26May2025 07:13:20.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26May2025 07:13:20.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26May2025 07:13:20.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26May2025 07:13:20.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26May2025 07:13:20.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[26May2025 07:13:20.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26May2025 07:13:20.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26May2025 07:13:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[26May2025 07:13:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[26May2025 07:13:20.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[26May2025 07:13:20.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[26May2025 07:13:20.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[26May2025 07:13:20.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[26May2025 07:13:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26May2025 07:13:20.521] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26May2025 07:13:20.523] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26May2025 07:13:20.526] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[26May2025 07:13:20.694] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
