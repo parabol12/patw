@@ -1504,5 +1504,11 @@
     },
     "done": true
   },
+  "mca:monster": {
+    "criteria": {
+      "baby_drop_attempts": "2025-05-27 03:00:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

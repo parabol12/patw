@@ -869,6 +869,7 @@
       "minecraft:spider": "2025-05-23 06:19:08 +0000",
       "minecraft:creeper": "2025-05-23 06:27:51 +0000",
       "minecraft:witch": "2025-05-23 06:27:44 +0000",
+      "minecraft:wither_skeleton": "2025-05-27 02:55:37 +0000",
       "minecraft:zombie": "2025-05-23 06:17:44 +0000",
       "minecraft:drowned": "2025-05-24 02:37:34 +0000"
     },
@@ -1681,6 +1682,12 @@
       "blackstone_basin": "2025-05-27 02:54:26 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2025-05-27 02:57:25 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {

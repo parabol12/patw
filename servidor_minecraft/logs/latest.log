@@ -3653,3 +3653,71 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [27May2025 02:54:56.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Timed out
 [27May2025 02:54:56.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
 [27May2025 02:57:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ has made the advancement [Light Snack]
+[27May2025 02:58:49.901] [Server thread/WARN] [tombstone/]: The death event of the player d0ce3_ was canceled by another mod
+[27May2025 02:58:49.927] [Server thread/INFO] [tombstone/]: The player d0ce3_ has successfully been saved
+[27May2025 02:59:06.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7267ms or 145 ticks behind
+[27May2025 02:59:14.244] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:60188] logged in with entity id 9354 at (-2664.1168413163114, 67.0, 4228.162392230729)
+[27May2025 02:59:14.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[27May2025 02:59:14.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[27May2025 02:59:14.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[27May2025 02:59:14.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[27May2025 02:59:14.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[27May2025 02:59:14.256] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[27May2025 02:59:14.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[27May2025 02:59:14.284] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[27May2025 02:59:14.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[27May2025 02:59:14.343] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[27May2025 02:59:14.347] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[27May2025 02:59:14.598] [ForkJoinPool-4-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[27May2025 02:59:14.698] [ForkJoinPool-4-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[27May2025 02:59:14.792] [ForkJoinPool-4-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[27May2025 02:59:20.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> aiudaa
+[27May2025 02:59:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> gracias :)
+[27May2025 02:59:46.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> toma
+[27May2025 02:59:59.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> che me di cuenta que el mod este de revivir te borra la armadura y lo que tenias en la mano cuando moris
+[27May2025 03:00:03.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [You Monster!]
+[27May2025 03:00:34.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> perdi mi iha
+[27May2025 03:00:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> mi hija
+[27May2025 03:00:40.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> HASHDH
+[27May2025 03:00:42.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> COmo
+[27May2025 03:00:54.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> la tire
+[27May2025 03:00:55.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> y desaparecio
+[27May2025 03:01:15.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> na bue
+[27May2025 03:01:21.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> Capaz que podes revivirla
+[27May2025 03:01:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> o nu se
+[27May2025 03:01:33.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> va no se hizo ningun tumba
+[27May2025 03:01:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> asi que dudo
+[27May2025 03:01:40.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: You logged in from another location
+[27May2025 03:01:40.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
+[27May2025 03:01:40.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zimee777[/100.114.212.114:60202] logged in with entity id 9609 at (-2664.7146351514334, 67.0, 4227.618766332782)
+[27May2025 03:01:40.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zimee777
+[27May2025 03:01:40.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zimee777
+[27May2025 03:01:40.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zimee777
+[27May2025 03:01:40.266] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zimee777
+[27May2025 03:01:40.268] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zimee777
+[27May2025 03:01:40.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zimee777
+[27May2025 03:01:40.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zimee777
+[27May2025 03:01:40.305] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zimee777
+[27May2025 03:01:40.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 joined the game
+[27May2025 03:01:40.370] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zimee777 just logged in with id 0580439a-8976-3496-b643-92e4db2f5534
+[27May2025 03:01:40.375] [Server thread/INFO] [Jade/]: Syncing config to zimee777 (0580439a-8976-3496-b643-92e4db2f5534)
+[27May2025 03:01:40.491] [ForkJoinPool-4-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[27May2025 03:01:40.616] [ForkJoinPool-4-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[27May2025 03:01:40.743] [ForkJoinPool-4-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
+[27May2025 03:02:13.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> y samueeeeeeeeeeel
+[27May2025 03:02:22.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> estaba durmiendo
+[27May2025 03:02:46.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> juan
+[27May2025 03:02:51.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> quep
+[27May2025 03:02:52.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> veni que te hago un hijo
+[27May2025 03:03:05.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> abuee
+[27May2025 03:03:27.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> pero
+[27May2025 03:03:57.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> dos
+[27May2025 03:04:01.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> JAJAJAJAJAJA
+[27May2025 03:04:03.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> JAJAJA que
+[27May2025 03:04:05.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> Como que dos
+[27May2025 03:04:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> dos
+[27May2025 03:04:13.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> te voy a hacer
+[27May2025 03:05:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> tuve otro nene
+[27May2025 03:06:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> al final sos una maquina de hacer hijos noma
+[27May2025 03:06:10.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <d0ce3_> dea
+[27May2025 03:06:20.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> ANDAAAAAAAAAAAAAAAA
