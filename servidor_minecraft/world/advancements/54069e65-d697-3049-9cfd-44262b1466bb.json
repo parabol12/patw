@@ -1578,15 +1578,51 @@
     },
     "done": true
   },
-  "twilightforest:twilight_hunter": {
+  "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "yeti": "2025-05-25 06:24:26 +0000"
+      "bestiary": "2025-05-25 05:48:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-05-25 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-25 05:48:48 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-25 06:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-25 06:06:56 +0000"
     },
     "done": true
   },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
       "coded_trigger": "2025-05-25 06:12:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 06:12:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-05-25 06:20:36 +0000"
     },
     "done": true
   },
@@ -1602,21 +1638,9 @@
     },
     "done": false
   },
-  "graveyard:graveyard/root": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "grave_01": "2025-05-25 06:02:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-05-25 06:12:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2025-05-25 05:48:43 +0000"
+      "yeti": "2025-05-25 06:24:26 +0000"
     },
     "done": true
   },
@@ -1626,21 +1650,9 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/tame_cockatrice": {
+  "twilightforest:progress_naga": {
     "criteria": {
-      "tame_rat": "2025-05-25 05:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-05-25 06:06:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-25 05:48:48 +0000"
+      "naga": "2025-05-25 06:28:39 +0000"
     },
     "done": true
   },
@@ -1650,21 +1662,15 @@
     },
     "done": true
   },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2025-05-25 06:28:39 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "make_portal": "2025-05-25 06:20:36 +0000"
-    },
-    "done": true
-  },
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2025-05-25 06:35:04 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/snow_block_slab": {
+    "criteria": {
+      "has_snow_block": "2025-05-27 02:34:43 +0000"
     },
     "done": true
   },
