@@ -646,6 +646,7 @@
       "rocky_meadow": "2025-05-23 06:56:06 +0000",
       "highland_fields": "2025-05-25 06:06:43 +0000",
       "magnolia_highlands": "2025-05-23 06:46:29 +0000",
+      "blackstone_basin": "2025-05-27 02:54:26 +0000",
       "towering_cliffs": "2025-05-24 02:14:13 +0000",
       "temperate_grove": "2025-05-24 02:30:54 +0000",
       "bioshroom_caves": "2025-05-23 07:34:40 +0000",
@@ -691,7 +692,8 @@
       "dune_beach": "2025-05-24 03:30:20 +0000",
       "pasture": "2025-05-24 05:14:40 +0000",
       "lavender_field": "2025-05-24 03:24:28 +0000",
-      "prairie": "2025-05-24 05:14:26 +0000"
+      "prairie": "2025-05-24 05:14:26 +0000",
+      "undergrowth": "2025-05-27 02:53:39 +0000"
     },
     "done": false
   },
@@ -1668,9 +1670,45 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-27 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2025-05-27 02:54:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-27 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-05-27 02:53:34 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/snow_block_slab": {
     "criteria": {
       "has_snow_block": "2025-05-27 02:34:43 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2025-05-27 02:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-27 02:53:41 +0000"
     },
     "done": true
   },
