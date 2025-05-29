@@ -1671,21 +1671,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "new_slab_variants:recipes/building_blocks/snow_block_slab": {
     "criteria": {
-      "entered_nether": "2025-05-27 02:53:34 +0000"
+      "has_snow_block": "2025-05-27 02:34:43 +0000"
     },
     "done": true
   },
-  "regions_unexplored:eternal_expedition": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "blackstone_basin": "2025-05-27 02:54:26 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:light_snack": {
-    "criteria": {
-      "earlight": "2025-05-27 02:57:25 +0000"
+      "entered_nether": "2025-05-27 02:53:34 +0000"
     },
     "done": true
   },
@@ -1701,9 +1695,9 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/snow_block_slab": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_snow_block": "2025-05-27 02:34:43 +0000"
+      "in_better_fortress": "2025-05-27 02:53:41 +0000"
     },
     "done": true
   },
@@ -1713,9 +1707,15 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "in_better_fortress": "2025-05-27 02:53:41 +0000"
+      "blackstone_basin": "2025-05-27 02:54:26 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2025-05-27 02:57:25 +0000"
     },
     "done": true
   },

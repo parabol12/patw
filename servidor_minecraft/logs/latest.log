@@ -3504,3 +3504,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29May2025 04:42:57.101] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [29May2025 04:42:57.102] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [29May2025 04:55:19.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [What a Handful]
+[29May2025 05:04:13.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: d0ce3_[/100.87.151.1:54574] logged in with entity id 16223 at (-2648.685031307514, 67.1875, 4222.933896743065)
+[29May2025 05:04:13.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to d0ce3_
+[29May2025 05:04:13.026] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to d0ce3_
+[29May2025 05:04:13.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to d0ce3_
+[29May2025 05:04:13.027] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to d0ce3_
+[29May2025 05:04:13.030] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to d0ce3_
+[29May2025 05:04:13.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to d0ce3_
+[29May2025 05:04:13.032] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to d0ce3_
+[29May2025 05:04:13.080] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player d0ce3_
+[29May2025 05:04:13.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d0ce3_ joined the game
+[29May2025 05:04:13.197] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player d0ce3_ just logged in with id 54069e65-d697-3049-9cfd-44262b1466bb
+[29May2025 05:04:13.200] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[29May2025 05:04:13.201] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player d0ce3_[54069e65-d697-3049-9cfd-44262b1466bb]
+[29May2025 05:04:13.210] [Server thread/INFO] [Jade/]: Syncing config to d0ce3_ (54069e65-d697-3049-9cfd-44262b1466bb)
+[29May2025 05:05:43.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [d0ce3_: Set season to Early Autumn]
