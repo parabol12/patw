@@ -1543,5 +1543,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_red_wool": "2025-05-29 06:37:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
