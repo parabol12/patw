@@ -3494,3 +3494,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [29May2025 04:14:39.983] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [29May2025 04:14:40.133] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [29May2025 04:14:53.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10265ms or 205 ticks behind
+[29May2025 04:19:38.473] [Server thread/INFO] [STDOUT/]: [teamrazor.aeroblender.Aeroblender:getAetherNamespacedRules:55]: com.google.common.collect.ImmutableMap$Builder@3f34aa1d
+[29May2025 04:30:07.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2675, y=71, z=4199} BlockPos{x=-2675, y=70, z=4198}
+[29May2025 04:36:11.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2704, y=68, z=4190} BlockPos{x=-2702, y=68, z=4190}
+[29May2025 04:37:23.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2688, y=68, z=4200} BlockPos{x=-2687, y=67, z=4201}
+[29May2025 04:37:35.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2682, y=67, z=4193} BlockPos{x=-2682, y=68, z=4190}
+[29May2025 04:38:46.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2662, y=66, z=4201} BlockPos{x=-2662, y=67, z=4200}

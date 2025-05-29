@@ -1510,5 +1510,11 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/pink_wool_slab": {
+    "criteria": {
+      "has_pink_wool": "2025-05-29 04:21:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
